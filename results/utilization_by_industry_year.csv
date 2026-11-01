@@ -1,0 +1,1500 @@
+industry,year,util,label
+311423,2008,69.61,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2009,68.06,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2010,62.28,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2011,63.85,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2012,68.07,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2013,67.92,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2014,63.89,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2015,62.31,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2016,63.42,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2017,65.93,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2018,68.38,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2019,64.2,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2020,67.8,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2021,70.32,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2022,72.85,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2023,68.53,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311423,2024,70.2,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing"
+311615,2008,85.06,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2009,81.44,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2010,83.46,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2011,84.46,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2012,81.37,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2013,80.89,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2014,83.25,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2015,77.92,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2016,79.65,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2017,82.02,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2018,84.38,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2019,84.12,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2020,84.1,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2021,84.2,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2022,83.98,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2023,82.62,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311615,2024,81.62,"Grain and oilseed milling, dairy, and animal slaughtering and processing"
+311830,2008,66.4,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2009,60.06,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2010,70.58,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2011,69.6,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2012,69.05,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2013,71.19,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2014,72.51,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2015,70.55,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2016,69.35,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2017,66.45,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2018,73.0,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2019,64.8,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2020,75.28,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2021,73.65,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2022,76.3,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2023,75.07,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311830,2024,72.88,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging"
+311919,2008,75.14,Snack food manufacturing
+311919,2009,66.61,Snack food manufacturing
+311919,2010,70.72,Snack food manufacturing
+311919,2011,73.76,Snack food manufacturing
+311919,2012,76.76,Snack food manufacturing
+311919,2013,71.06,Snack food manufacturing
+311919,2014,72.75,Snack food manufacturing
+311919,2015,77.25,Snack food manufacturing
+311919,2016,73.62,Snack food manufacturing
+311919,2017,74.8,Snack food manufacturing
+311919,2018,70.18,Snack food manufacturing
+311919,2019,76.68,Snack food manufacturing
+311919,2020,73.68,Snack food manufacturing
+311919,2021,75.65,Snack food manufacturing
+311919,2022,79.05,Snack food manufacturing
+311919,2023,83.65,Snack food manufacturing
+311919,2024,78.42,Snack food manufacturing
+311920,2008,64.69,Coffee and tea manufacturing
+311920,2009,65.03,Coffee and tea manufacturing
+311920,2010,69.33,Coffee and tea manufacturing
+311920,2011,73.3,Coffee and tea manufacturing
+311920,2012,67.38,Coffee and tea manufacturing
+311920,2013,67.53,Coffee and tea manufacturing
+311920,2014,65.7,Coffee and tea manufacturing
+311920,2015,63.08,Coffee and tea manufacturing
+311920,2016,70.32,Coffee and tea manufacturing
+311920,2017,67.18,Coffee and tea manufacturing
+311920,2018,58.2,Coffee and tea manufacturing
+311920,2019,54.15,Coffee and tea manufacturing
+311920,2020,66.7,Coffee and tea manufacturing
+311920,2021,81.77,Coffee and tea manufacturing
+311920,2022,79.95,Coffee and tea manufacturing
+311920,2023,76.92,Coffee and tea manufacturing
+311920,2024,76.7,Coffee and tea manufacturing
+311999,2008,67.32,Other food manufacturing
+311999,2009,66.11,Other food manufacturing
+311999,2010,64.59,Other food manufacturing
+311999,2011,62.79,Other food manufacturing
+311999,2012,65.75,Other food manufacturing
+311999,2013,67.47,Other food manufacturing
+311999,2014,66.96,Other food manufacturing
+311999,2015,68.35,Other food manufacturing
+311999,2016,71.42,Other food manufacturing
+311999,2017,73.28,Other food manufacturing
+311999,2018,72.95,Other food manufacturing
+311999,2019,73.42,Other food manufacturing
+311999,2020,70.62,Other food manufacturing
+311999,2021,73.32,Other food manufacturing
+311999,2022,72.2,Other food manufacturing
+311999,2023,70.5,Other food manufacturing
+311999,2024,71.38,Other food manufacturing
+312140,2008,72.65,Beverage manufacturing
+312140,2009,73.05,Beverage manufacturing
+312140,2010,74.63,Beverage manufacturing
+312140,2011,70.35,Beverage manufacturing
+312140,2012,74.02,Beverage manufacturing
+312140,2013,73.34,Beverage manufacturing
+312140,2014,71.86,Beverage manufacturing
+312140,2015,74.87,Beverage manufacturing
+312140,2016,77.08,Beverage manufacturing
+312140,2017,76.38,Beverage manufacturing
+312140,2018,78.92,Beverage manufacturing
+312140,2019,75.58,Beverage manufacturing
+312140,2020,75.12,Beverage manufacturing
+312140,2021,78.22,Beverage manufacturing
+312140,2022,80.25,Beverage manufacturing
+312140,2023,69.55,Beverage manufacturing
+312140,2024,70.98,Beverage manufacturing
+312230,2008,64.98,Tobacco manufacturing
+312230,2009,63.78,Tobacco manufacturing
+312230,2010,64.76,Tobacco manufacturing
+312230,2011,59.07,Tobacco manufacturing
+312230,2012,61.0,Tobacco manufacturing
+312230,2013,59.24,Tobacco manufacturing
+312230,2014,56.61,Tobacco manufacturing
+312230,2015,59.19,Tobacco manufacturing
+312230,2016,60.35,Tobacco manufacturing
+312230,2017,46.78,Tobacco manufacturing
+312230,2018,47.43,Tobacco manufacturing
+312230,2021,48.73,Tobacco manufacturing
+312230,2022,48.88,Tobacco manufacturing
+312230,2023,56.3,Tobacco manufacturing
+312230,2024,56.75,Tobacco manufacturing
+313110,2008,77.2,"Fiber, yarn, and thread mills"
+313110,2009,74.11,"Fiber, yarn, and thread mills"
+313110,2010,81.13,"Fiber, yarn, and thread mills"
+313110,2011,73.18,"Fiber, yarn, and thread mills"
+313110,2012,72.05,"Fiber, yarn, and thread mills"
+313110,2013,79.57,"Fiber, yarn, and thread mills"
+313110,2014,80.11,"Fiber, yarn, and thread mills"
+313110,2015,79.91,"Fiber, yarn, and thread mills"
+313110,2016,76.32,"Fiber, yarn, and thread mills"
+313110,2017,82.7,"Fiber, yarn, and thread mills"
+313110,2018,85.9,"Fiber, yarn, and thread mills"
+313110,2019,82.02,"Fiber, yarn, and thread mills"
+313110,2020,78.9,"Fiber, yarn, and thread mills"
+313110,2021,82.82,"Fiber, yarn, and thread mills"
+313110,2022,79.1,"Fiber, yarn, and thread mills"
+313110,2023,73.65,"Fiber, yarn, and thread mills"
+313110,2024,82.47,"Fiber, yarn, and thread mills"
+313240,2008,65.7,Fabric mills
+313240,2009,59.71,Fabric mills
+313240,2010,68.06,Fabric mills
+313240,2011,69.74,Fabric mills
+313240,2012,71.71,Fabric mills
+313240,2013,69.99,Fabric mills
+313240,2014,71.61,Fabric mills
+313240,2015,61.53,Fabric mills
+313240,2016,60.55,Fabric mills
+313240,2017,65.53,Fabric mills
+313240,2018,64.45,Fabric mills
+313240,2019,63.72,Fabric mills
+313240,2020,70.2,Fabric mills
+313240,2021,78.95,Fabric mills
+313240,2022,70.35,Fabric mills
+313240,2023,67.43,Fabric mills
+313240,2024,67.45,Fabric mills
+313320,2008,52.01,"Textile and fabric finishing, and fabric coating mills"
+313320,2009,52.25,"Textile and fabric finishing, and fabric coating mills"
+313320,2010,57.97,"Textile and fabric finishing, and fabric coating mills"
+313320,2011,68.87,"Textile and fabric finishing, and fabric coating mills"
+313320,2012,67.25,"Textile and fabric finishing, and fabric coating mills"
+313320,2013,70.03,"Textile and fabric finishing, and fabric coating mills"
+313320,2014,71.92,"Textile and fabric finishing, and fabric coating mills"
+313320,2015,69.39,"Textile and fabric finishing, and fabric coating mills"
+313320,2016,64.75,"Textile and fabric finishing, and fabric coating mills"
+313320,2017,65.6,"Textile and fabric finishing, and fabric coating mills"
+313320,2018,58.58,"Textile and fabric finishing, and fabric coating mills"
+313320,2019,56.98,"Textile and fabric finishing, and fabric coating mills"
+313320,2020,50.2,"Textile and fabric finishing, and fabric coating mills"
+313320,2021,52.1,"Textile and fabric finishing, and fabric coating mills"
+313320,2022,64.4,"Textile and fabric finishing, and fabric coating mills"
+313320,2023,72.03,"Textile and fabric finishing, and fabric coating mills"
+313320,2024,64.22,"Textile and fabric finishing, and fabric coating mills"
+314120,2008,67.06,Textile furnishings mills
+314120,2009,48.51,Textile furnishings mills
+314120,2010,55.2,Textile furnishings mills
+314120,2011,57.76,Textile furnishings mills
+314120,2012,54.83,Textile furnishings mills
+314120,2013,63.71,Textile furnishings mills
+314120,2014,61.95,Textile furnishings mills
+314120,2015,69.2,Textile furnishings mills
+314120,2016,72.88,Textile furnishings mills
+314120,2017,73.25,Textile furnishings mills
+314120,2018,71.82,Textile furnishings mills
+314120,2019,64.93,Textile furnishings mills
+314120,2020,61.45,Textile furnishings mills
+314120,2021,71.77,Textile furnishings mills
+314120,2022,68.47,Textile furnishings mills
+314120,2023,66.97,Textile furnishings mills
+314120,2024,75.27,Textile furnishings mills
+314999,2008,71.87,Other textile product mills
+314999,2009,65.38,Other textile product mills
+314999,2010,70.12,Other textile product mills
+314999,2011,70.0,Other textile product mills
+314999,2012,63.19,Other textile product mills
+314999,2013,71.16,Other textile product mills
+314999,2014,70.64,Other textile product mills
+314999,2015,64.26,Other textile product mills
+314999,2016,56.08,Other textile product mills
+314999,2017,54.08,Other textile product mills
+314999,2018,64.22,Other textile product mills
+314999,2019,66.57,Other textile product mills
+314999,2020,70.05,Other textile product mills
+314999,2021,68.28,Other textile product mills
+314999,2022,72.05,Other textile product mills
+314999,2023,74.08,Other textile product mills
+314999,2024,73.07,Other textile product mills
+315190,2008,66.7,Hosiery and sock mills; and other apparel knitting mills
+315190,2009,49.54,Hosiery and sock mills; and other apparel knitting mills
+315190,2010,56.31,Hosiery and sock mills; and other apparel knitting mills
+315190,2011,55.85,Hosiery and sock mills; and other apparel knitting mills
+315190,2012,58.16,Hosiery and sock mills; and other apparel knitting mills
+315190,2013,54.28,Hosiery and sock mills; and other apparel knitting mills
+315190,2014,56.46,Hosiery and sock mills; and other apparel knitting mills
+315190,2015,57.93,Hosiery and sock mills; and other apparel knitting mills
+315190,2016,49.48,Hosiery and sock mills; and other apparel knitting mills
+315190,2017,50.58,Hosiery and sock mills; and other apparel knitting mills
+315190,2018,43.35,Hosiery and sock mills; and other apparel knitting mills
+315190,2019,44.08,Hosiery and sock mills; and other apparel knitting mills
+315190,2020,50.52,Hosiery and sock mills; and other apparel knitting mills
+315190,2021,64.15,Hosiery and sock mills; and other apparel knitting mills
+315190,2022,74.65,Hosiery and sock mills; and other apparel knitting mills
+315190,2023,67.45,Hosiery and sock mills; and other apparel knitting mills
+315190,2024,70.35,Hosiery and sock mills; and other apparel knitting mills
+315210,2008,68.16,Cut and sew apparel contractors
+315210,2009,67.63,Cut and sew apparel contractors
+315210,2010,60.58,Cut and sew apparel contractors
+315210,2011,54.84,Cut and sew apparel contractors
+315210,2012,63.37,Cut and sew apparel contractors
+315210,2013,64.94,Cut and sew apparel contractors
+315210,2014,59.42,Cut and sew apparel contractors
+315210,2015,69.09,Cut and sew apparel contractors
+315210,2016,52.42,Cut and sew apparel contractors
+315210,2017,43.18,Cut and sew apparel contractors
+315210,2018,66.0,Cut and sew apparel contractors
+315210,2019,59.4,Cut and sew apparel contractors
+315210,2020,71.32,Cut and sew apparel contractors
+315210,2021,70.5,Cut and sew apparel contractors
+315210,2022,71.6,Cut and sew apparel contractors
+315210,2023,69.32,Cut and sew apparel contractors
+315210,2024,57.2,Cut and sew apparel contractors
+315220,2008,88.29,Men's and boy's cut and sew apparel manufacturing
+315220,2009,81.38,Men's and boy's cut and sew apparel manufacturing
+315220,2010,68.16,Men's and boy's cut and sew apparel manufacturing
+315220,2011,61.17,Men's and boy's cut and sew apparel manufacturing
+315220,2012,59.05,Men's and boy's cut and sew apparel manufacturing
+315220,2013,63.78,Men's and boy's cut and sew apparel manufacturing
+315220,2014,68.77,Men's and boy's cut and sew apparel manufacturing
+315220,2015,70.79,Men's and boy's cut and sew apparel manufacturing
+315220,2016,73.03,Men's and boy's cut and sew apparel manufacturing
+315220,2017,76.6,Men's and boy's cut and sew apparel manufacturing
+315220,2018,77.0,Men's and boy's cut and sew apparel manufacturing
+315220,2019,83.12,Men's and boy's cut and sew apparel manufacturing
+315220,2020,69.5,Men's and boy's cut and sew apparel manufacturing
+315220,2021,72.08,Men's and boy's cut and sew apparel manufacturing
+315220,2022,67.73,Men's and boy's cut and sew apparel manufacturing
+315220,2023,81.75,Men's and boy's cut and sew apparel manufacturing
+315220,2024,63.6,Men's and boy's cut and sew apparel manufacturing
+315240,2015,90.67,Women's and girl's cut and sew apparel manufacturing
+315240,2016,97.72,Women's and girl's cut and sew apparel manufacturing
+315240,2017,96.52,Women's and girl's cut and sew apparel manufacturing
+315240,2018,87.82,Women's and girl's cut and sew apparel manufacturing
+315240,2019,80.0,Women's and girl's cut and sew apparel manufacturing
+315240,2020,61.95,Women's and girl's cut and sew apparel manufacturing
+315240,2021,76.25,Women's and girl's cut and sew apparel manufacturing
+315240,2022,65.25,Women's and girl's cut and sew apparel manufacturing
+315240,2023,32.17,Women's and girl's cut and sew apparel manufacturing
+315240,2024,43.3,Women's and girl's cut and sew apparel manufacturing
+315280,2015,68.23,Other cut and sew apparel manufacturing
+315280,2016,68.77,Other cut and sew apparel manufacturing
+315280,2017,74.18,Other cut and sew apparel manufacturing
+315280,2018,69.25,Other cut and sew apparel manufacturing
+315280,2019,62.9,Other cut and sew apparel manufacturing
+315280,2020,34.42,Other cut and sew apparel manufacturing
+315280,2021,61.22,Other cut and sew apparel manufacturing
+315280,2022,69.5,Other cut and sew apparel manufacturing
+315280,2023,69.22,Other cut and sew apparel manufacturing
+315280,2024,65.45,Other cut and sew apparel manufacturing
+315990,2008,71.16,Apparel accessories and other apparel manufacturing
+315990,2009,67.75,Apparel accessories and other apparel manufacturing
+315990,2010,76.93,Apparel accessories and other apparel manufacturing
+315990,2011,66.07,Apparel accessories and other apparel manufacturing
+315990,2012,73.58,Apparel accessories and other apparel manufacturing
+315990,2013,71.79,Apparel accessories and other apparel manufacturing
+315990,2014,65.36,Apparel accessories and other apparel manufacturing
+315990,2015,74.08,Apparel accessories and other apparel manufacturing
+315990,2016,72.0,Apparel accessories and other apparel manufacturing
+315990,2017,67.12,Apparel accessories and other apparel manufacturing
+315990,2018,69.45,Apparel accessories and other apparel manufacturing
+315990,2019,67.32,Apparel accessories and other apparel manufacturing
+315990,2020,68.35,Apparel accessories and other apparel manufacturing
+315990,2021,76.0,Apparel accessories and other apparel manufacturing
+315990,2022,89.42,Apparel accessories and other apparel manufacturing
+315990,2023,87.32,Apparel accessories and other apparel manufacturing
+315990,2024,85.5,Apparel accessories and other apparel manufacturing
+316110,2008,64.76,Leather and hide tanning and finishing
+316110,2009,60.51,Leather and hide tanning and finishing
+316110,2010,58.22,Leather and hide tanning and finishing
+316110,2011,85.07,Leather and hide tanning and finishing
+316110,2012,77.23,Leather and hide tanning and finishing
+316110,2013,74.68,Leather and hide tanning and finishing
+316110,2014,71.27,Leather and hide tanning and finishing
+316110,2015,58.11,Leather and hide tanning and finishing
+316110,2016,45.45,Leather and hide tanning and finishing
+316110,2017,47.65,Leather and hide tanning and finishing
+316110,2018,44.73,Leather and hide tanning and finishing
+316110,2019,48.53,Leather and hide tanning and finishing
+316110,2020,75.62,Leather and hide tanning and finishing
+316110,2021,92.98,Leather and hide tanning and finishing
+316110,2022,69.93,Leather and hide tanning and finishing
+316110,2023,78.73,Leather and hide tanning and finishing
+316110,2024,82.8,Leather and hide tanning and finishing
+316210,2008,69.95,Footwear manufacturing
+316210,2009,62.45,Footwear manufacturing
+316210,2010,61.11,Footwear manufacturing
+316210,2011,65.87,Footwear manufacturing
+316210,2012,73.45,Footwear manufacturing
+316210,2013,73.05,Footwear manufacturing
+316210,2014,69.21,Footwear manufacturing
+316210,2015,63.19,Footwear manufacturing
+316210,2016,55.42,Footwear manufacturing
+316210,2017,53.8,Footwear manufacturing
+316210,2018,59.38,Footwear manufacturing
+316210,2019,68.62,Footwear manufacturing
+316210,2020,72.0,Footwear manufacturing
+316210,2021,75.05,Footwear manufacturing
+316210,2022,80.18,Footwear manufacturing
+316210,2023,77.45,Footwear manufacturing
+316210,2024,78.43,Footwear manufacturing
+316998,2008,57.2,Other leather and allied product manufacturing
+316998,2009,48.35,Other leather and allied product manufacturing
+316998,2010,48.05,Other leather and allied product manufacturing
+316998,2011,68.35,Other leather and allied product manufacturing
+316998,2012,38.37,Other leather and allied product manufacturing
+316998,2013,47.48,Other leather and allied product manufacturing
+316998,2014,53.8,Other leather and allied product manufacturing
+316998,2015,62.2,Other leather and allied product manufacturing
+316998,2016,74.35,Other leather and allied product manufacturing
+316998,2017,76.0,Other leather and allied product manufacturing
+316998,2018,82.68,Other leather and allied product manufacturing
+316998,2019,82.72,Other leather and allied product manufacturing
+316998,2020,86.38,Other leather and allied product manufacturing
+316998,2021,83.72,Other leather and allied product manufacturing
+316998,2022,80.3,Other leather and allied product manufacturing
+316998,2023,70.15,Other leather and allied product manufacturing
+316998,2024,66.9,Other leather and allied product manufacturing
+321114,2008,68.03,Sawmills and wood preservation
+321114,2009,52.9,Sawmills and wood preservation
+321114,2010,54.44,Sawmills and wood preservation
+321114,2011,54.46,Sawmills and wood preservation
+321114,2012,57.39,Sawmills and wood preservation
+321114,2013,62.79,Sawmills and wood preservation
+321114,2014,62.71,Sawmills and wood preservation
+321114,2015,73.04,Sawmills and wood preservation
+321114,2016,79.0,Sawmills and wood preservation
+321114,2017,78.78,Sawmills and wood preservation
+321114,2018,77.65,Sawmills and wood preservation
+321114,2019,76.32,Sawmills and wood preservation
+321114,2020,77.08,Sawmills and wood preservation
+321114,2021,70.82,Sawmills and wood preservation
+321114,2022,73.78,Sawmills and wood preservation
+321114,2023,67.4,Sawmills and wood preservation
+321114,2024,65.95,Sawmills and wood preservation
+321219,2008,55.03,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2009,43.82,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2010,53.04,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2011,53.68,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2012,61.18,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2013,65.32,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2014,67.61,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2015,72.06,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2016,77.9,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2017,82.82,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2018,82.32,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2019,78.72,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2020,74.97,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2021,78.7,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2022,76.1,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2023,69.28,"Veneer, plywood, and engineered wood product manufacturing"
+321219,2024,68.45,"Veneer, plywood, and engineered wood product manufacturing"
+321999,2008,59.32,Other wood product manufacturing
+321999,2009,47.23,Other wood product manufacturing
+321999,2010,55.58,Other wood product manufacturing
+321999,2011,55.4,Other wood product manufacturing
+321999,2012,59.22,Other wood product manufacturing
+321999,2013,64.63,Other wood product manufacturing
+321999,2014,64.82,Other wood product manufacturing
+321999,2015,69.42,Other wood product manufacturing
+321999,2016,72.62,Other wood product manufacturing
+321999,2017,74.1,Other wood product manufacturing
+321999,2018,76.1,Other wood product manufacturing
+321999,2019,71.6,Other wood product manufacturing
+321999,2020,74.68,Other wood product manufacturing
+321999,2021,82.48,Other wood product manufacturing
+321999,2022,74.88,Other wood product manufacturing
+321999,2023,69.85,Other wood product manufacturing
+321999,2024,71.9,Other wood product manufacturing
+322110,2008,93.42,Pulp mills
+322110,2009,85.67,Pulp mills
+322110,2010,84.26,Pulp mills
+322110,2011,85.74,Pulp mills
+322110,2012,83.18,Pulp mills
+322110,2013,86.63,Pulp mills
+322110,2014,92.87,Pulp mills
+322110,2015,80.68,Pulp mills
+322110,2016,88.45,Pulp mills
+322110,2017,84.22,Pulp mills
+322110,2018,92.48,Pulp mills
+322110,2019,94.2,Pulp mills
+322110,2020,75.88,Pulp mills
+322110,2021,90.85,Pulp mills
+322110,2022,95.13,Pulp mills
+322122,2008,88.49,Paper mills
+322122,2009,83.4,Paper mills
+322122,2010,81.86,Paper mills
+322122,2011,79.04,Paper mills
+322122,2012,81.57,Paper mills
+322122,2013,82.72,Paper mills
+322122,2014,82.18,Paper mills
+322122,2015,85.68,Paper mills
+322122,2016,84.98,Paper mills
+322122,2017,79.15,Paper mills
+322122,2018,73.18,Paper mills
+322122,2019,84.65,Paper mills
+322122,2020,87.58,Paper mills
+322122,2021,88.35,Paper mills
+322122,2022,91.98,Paper mills
+322122,2023,90.85,Paper mills
+322122,2024,89.25,Paper mills
+322130,2008,95.82,Paperboard mills
+322130,2009,82.45,Paperboard mills
+322130,2010,92.81,Paperboard mills
+322130,2011,86.82,Paperboard mills
+322130,2012,84.33,Paperboard mills
+322130,2013,95.82,Paperboard mills
+322130,2014,96.74,Paperboard mills
+322130,2015,92.33,Paperboard mills
+322130,2016,92.93,Paperboard mills
+322130,2017,94.05,Paperboard mills
+322130,2018,93.78,Paperboard mills
+322130,2019,92.35,Paperboard mills
+322130,2020,95.75,Paperboard mills
+322130,2021,96.75,Paperboard mills
+322130,2022,95.0,Paperboard mills
+322130,2023,87.42,Paperboard mills
+322130,2024,88.02,Paperboard mills
+322299,2008,67.27,Converted paper product manufacturing
+322299,2009,68.17,Converted paper product manufacturing
+322299,2010,70.9,Converted paper product manufacturing
+322299,2011,73.37,Converted paper product manufacturing
+322299,2012,71.13,Converted paper product manufacturing
+322299,2013,72.08,Converted paper product manufacturing
+322299,2014,70.89,Converted paper product manufacturing
+322299,2015,77.57,Converted paper product manufacturing
+322299,2016,79.75,Converted paper product manufacturing
+322299,2017,79.35,Converted paper product manufacturing
+322299,2018,81.3,Converted paper product manufacturing
+322299,2019,79.85,Converted paper product manufacturing
+322299,2020,80.32,Converted paper product manufacturing
+322299,2021,84.0,Converted paper product manufacturing
+322299,2022,79.45,Converted paper product manufacturing
+322299,2023,77.68,Converted paper product manufacturing
+322299,2024,78.05,Converted paper product manufacturing
+323120,2008,68.35,Printing and related support activities
+323120,2009,52.9,Printing and related support activities
+323120,2010,57.69,Printing and related support activities
+323120,2011,60.59,Printing and related support activities
+323120,2012,59.33,Printing and related support activities
+323120,2013,59.22,Printing and related support activities
+323120,2014,58.36,Printing and related support activities
+323120,2015,71.86,Printing and related support activities
+323120,2016,74.4,Printing and related support activities
+323120,2017,73.07,Printing and related support activities
+323120,2018,76.7,Printing and related support activities
+323120,2019,76.5,Printing and related support activities
+323120,2020,67.6,Printing and related support activities
+323120,2021,68.88,Printing and related support activities
+323120,2022,77.38,Printing and related support activities
+323120,2023,66.82,Printing and related support activities
+323120,2024,61.62,Printing and related support activities
+324110,2008,86.96,Petroleum refineries
+324110,2009,82.7,Petroleum refineries
+324110,2010,86.76,Petroleum refineries
+324110,2011,88.31,Petroleum refineries
+324110,2012,87.0,Petroleum refineries
+324110,2013,87.11,Petroleum refineries
+324110,2014,87.03,Petroleum refineries
+324110,2015,86.25,Petroleum refineries
+324110,2016,83.25,Petroleum refineries
+324110,2017,87.78,Petroleum refineries
+324110,2018,89.05,Petroleum refineries
+324110,2019,89.35,Petroleum refineries
+324110,2020,76.35,Petroleum refineries
+324110,2021,86.98,Petroleum refineries
+324110,2022,89.3,Petroleum refineries
+324110,2023,83.72,Petroleum refineries
+324110,2024,83.38,Petroleum refineries
+324199,2008,56.05,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2009,46.75,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2010,52.35,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2011,47.47,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2012,47.14,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2013,53.49,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2014,51.99,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2015,57.66,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2016,66.38,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2017,57.58,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2018,60.9,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2019,47.72,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2020,59.8,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2021,71.53,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2022,73.42,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2023,69.0,"Paving, roofing, and all other petroleum and coal products manufacturing"
+324199,2024,77.28,"Paving, roofing, and all other petroleum and coal products manufacturing"
+325110,2008,73.54,Petrochemical manufacturing
+325110,2009,75.99,Petrochemical manufacturing
+325110,2010,78.8,Petrochemical manufacturing
+325110,2011,79.91,Petrochemical manufacturing
+325110,2012,77.69,Petrochemical manufacturing
+325110,2013,74.67,Petrochemical manufacturing
+325110,2014,77.64,Petrochemical manufacturing
+325110,2015,85.11,Petrochemical manufacturing
+325110,2016,88.4,Petrochemical manufacturing
+325110,2017,85.7,Petrochemical manufacturing
+325110,2018,94.38,Petrochemical manufacturing
+325110,2019,92.8,Petrochemical manufacturing
+325110,2020,78.38,Petrochemical manufacturing
+325110,2021,75.75,Petrochemical manufacturing
+325110,2022,76.5,Petrochemical manufacturing
+325110,2023,72.57,Petrochemical manufacturing
+325110,2024,82.65,Petrochemical manufacturing
+325180,2008,75.79,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2009,66.53,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2010,72.82,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2011,76.16,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2012,72.15,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2013,72.73,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2014,75.66,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2015,65.33,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2016,63.25,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2017,66.68,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2018,64.75,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2019,67.12,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2020,77.92,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2021,82.95,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2022,83.18,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2023,78.25,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325180,2024,76.75,"Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing"
+325193,2008,94.44,Ethyl alcohol manufacturing
+325193,2009,86.41,Ethyl alcohol manufacturing
+325193,2010,94.46,Ethyl alcohol manufacturing
+325193,2011,96.41,Ethyl alcohol manufacturing
+325193,2012,89.44,Ethyl alcohol manufacturing
+325193,2013,88.21,Ethyl alcohol manufacturing
+325193,2014,93.56,Ethyl alcohol manufacturing
+325193,2015,93.72,Ethyl alcohol manufacturing
+325193,2016,93.6,Ethyl alcohol manufacturing
+325193,2017,93.93,Ethyl alcohol manufacturing
+325193,2018,90.25,Ethyl alcohol manufacturing
+325193,2019,89.93,Ethyl alcohol manufacturing
+325193,2020,91.6,Ethyl alcohol manufacturing
+325193,2021,97.02,Ethyl alcohol manufacturing
+325193,2022,94.42,Ethyl alcohol manufacturing
+325193,2023,93.9,Ethyl alcohol manufacturing
+325193,2024,92.52,Ethyl alcohol manufacturing
+325199,2015,82.03,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2016,80.75,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2017,84.85,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2018,85.52,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2019,80.38,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2020,66.15,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2021,72.2,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2022,77.1,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2023,69.35,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325199,2024,61.42,"Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing"
+325211,2008,75.22,Plastics material and resin manufacturing
+325211,2009,71.35,Plastics material and resin manufacturing
+325211,2010,76.06,Plastics material and resin manufacturing
+325211,2011,72.13,Plastics material and resin manufacturing
+325211,2012,68.72,Plastics material and resin manufacturing
+325211,2013,66.95,Plastics material and resin manufacturing
+325211,2014,69.33,Plastics material and resin manufacturing
+325211,2015,71.47,Plastics material and resin manufacturing
+325211,2016,74.6,Plastics material and resin manufacturing
+325211,2017,73.35,Plastics material and resin manufacturing
+325211,2018,77.12,Plastics material and resin manufacturing
+325211,2019,73.22,Plastics material and resin manufacturing
+325211,2020,76.32,Plastics material and resin manufacturing
+325211,2021,82.75,Plastics material and resin manufacturing
+325211,2022,76.82,Plastics material and resin manufacturing
+325211,2023,74.15,Plastics material and resin manufacturing
+325211,2024,75.3,Plastics material and resin manufacturing
+325212,2008,70.85,Synthetic rubber manufacturing
+325212,2009,63.84,Synthetic rubber manufacturing
+325212,2010,65.64,Synthetic rubber manufacturing
+325212,2011,65.54,Synthetic rubber manufacturing
+325212,2012,63.3,Synthetic rubber manufacturing
+325212,2013,63.03,Synthetic rubber manufacturing
+325212,2014,60.77,Synthetic rubber manufacturing
+325212,2015,63.03,Synthetic rubber manufacturing
+325212,2016,70.7,Synthetic rubber manufacturing
+325212,2017,77.32,Synthetic rubber manufacturing
+325212,2018,75.42,Synthetic rubber manufacturing
+325212,2019,67.95,Synthetic rubber manufacturing
+325212,2020,61.35,Synthetic rubber manufacturing
+325212,2021,67.92,Synthetic rubber manufacturing
+325212,2022,68.82,Synthetic rubber manufacturing
+325212,2023,52.18,Synthetic rubber manufacturing
+325212,2024,51.5,Synthetic rubber manufacturing
+325220,2008,70.52,Artificial and synthetic fibers and filaments manufacturing
+325220,2009,67.21,Artificial and synthetic fibers and filaments manufacturing
+325220,2010,85.16,Artificial and synthetic fibers and filaments manufacturing
+325220,2011,86.18,Artificial and synthetic fibers and filaments manufacturing
+325220,2012,69.79,Artificial and synthetic fibers and filaments manufacturing
+325220,2013,80.76,Artificial and synthetic fibers and filaments manufacturing
+325220,2014,71.77,Artificial and synthetic fibers and filaments manufacturing
+325220,2015,81.48,Artificial and synthetic fibers and filaments manufacturing
+325220,2016,83.55,Artificial and synthetic fibers and filaments manufacturing
+325220,2017,80.45,Artificial and synthetic fibers and filaments manufacturing
+325220,2018,78.82,Artificial and synthetic fibers and filaments manufacturing
+325220,2019,73.82,Artificial and synthetic fibers and filaments manufacturing
+325220,2020,77.0,Artificial and synthetic fibers and filaments manufacturing
+325220,2021,90.88,Artificial and synthetic fibers and filaments manufacturing
+325220,2022,82.32,Artificial and synthetic fibers and filaments manufacturing
+325220,2023,83.9,Artificial and synthetic fibers and filaments manufacturing
+325220,2024,83.78,Artificial and synthetic fibers and filaments manufacturing
+325314,2008,79.69,Fertilizer manufacturing
+325314,2009,72.61,Fertilizer manufacturing
+325314,2010,74.51,Fertilizer manufacturing
+325314,2011,78.42,Fertilizer manufacturing
+325314,2012,71.08,Fertilizer manufacturing
+325314,2013,72.47,Fertilizer manufacturing
+325314,2014,77.25,Fertilizer manufacturing
+325314,2015,73.67,Fertilizer manufacturing
+325314,2016,78.78,Fertilizer manufacturing
+325314,2017,59.3,Fertilizer manufacturing
+325314,2018,76.05,Fertilizer manufacturing
+325314,2019,78.32,Fertilizer manufacturing
+325314,2020,83.12,Fertilizer manufacturing
+325314,2021,82.32,Fertilizer manufacturing
+325314,2022,78.73,Fertilizer manufacturing
+325314,2023,70.9,Fertilizer manufacturing
+325314,2024,58.92,Fertilizer manufacturing
+325320,2008,56.82,Pesticide and other agricultural chemical manufacturing
+325320,2009,54.19,Pesticide and other agricultural chemical manufacturing
+325320,2010,53.9,Pesticide and other agricultural chemical manufacturing
+325320,2011,57.26,Pesticide and other agricultural chemical manufacturing
+325320,2012,53.4,Pesticide and other agricultural chemical manufacturing
+325320,2013,51.4,Pesticide and other agricultural chemical manufacturing
+325320,2014,56.27,Pesticide and other agricultural chemical manufacturing
+325320,2015,54.53,Pesticide and other agricultural chemical manufacturing
+325320,2016,46.75,Pesticide and other agricultural chemical manufacturing
+325320,2017,61.68,Pesticide and other agricultural chemical manufacturing
+325320,2018,68.18,Pesticide and other agricultural chemical manufacturing
+325320,2019,57.78,Pesticide and other agricultural chemical manufacturing
+325320,2020,61.47,Pesticide and other agricultural chemical manufacturing
+325320,2021,63.18,Pesticide and other agricultural chemical manufacturing
+325320,2022,74.25,Pesticide and other agricultural chemical manufacturing
+325320,2023,61.5,Pesticide and other agricultural chemical manufacturing
+325320,2024,63.68,Pesticide and other agricultural chemical manufacturing
+325414,2008,66.76,Pharmaceutical and medicine manufacturing
+325414,2009,67.2,Pharmaceutical and medicine manufacturing
+325414,2010,68.92,Pharmaceutical and medicine manufacturing
+325414,2011,69.07,Pharmaceutical and medicine manufacturing
+325414,2012,61.54,Pharmaceutical and medicine manufacturing
+325414,2013,64.55,Pharmaceutical and medicine manufacturing
+325414,2014,70.3,Pharmaceutical and medicine manufacturing
+325414,2015,60.02,Pharmaceutical and medicine manufacturing
+325414,2016,66.4,Pharmaceutical and medicine manufacturing
+325414,2017,65.2,Pharmaceutical and medicine manufacturing
+325414,2018,66.65,Pharmaceutical and medicine manufacturing
+325414,2019,80.78,Pharmaceutical and medicine manufacturing
+325414,2020,80.45,Pharmaceutical and medicine manufacturing
+325414,2021,79.45,Pharmaceutical and medicine manufacturing
+325414,2022,80.0,Pharmaceutical and medicine manufacturing
+325414,2023,69.18,Pharmaceutical and medicine manufacturing
+325414,2024,67.9,Pharmaceutical and medicine manufacturing
+325520,2008,68.42,"Paint, coating, and adhesive manufacturing"
+325520,2009,52.37,"Paint, coating, and adhesive manufacturing"
+325520,2010,62.31,"Paint, coating, and adhesive manufacturing"
+325520,2011,68.09,"Paint, coating, and adhesive manufacturing"
+325520,2012,67.41,"Paint, coating, and adhesive manufacturing"
+325520,2013,65.95,"Paint, coating, and adhesive manufacturing"
+325520,2014,67.54,"Paint, coating, and adhesive manufacturing"
+325520,2015,56.24,"Paint, coating, and adhesive manufacturing"
+325520,2016,59.48,"Paint, coating, and adhesive manufacturing"
+325520,2017,57.88,"Paint, coating, and adhesive manufacturing"
+325520,2018,54.9,"Paint, coating, and adhesive manufacturing"
+325520,2019,50.02,"Paint, coating, and adhesive manufacturing"
+325520,2020,65.25,"Paint, coating, and adhesive manufacturing"
+325520,2021,75.55,"Paint, coating, and adhesive manufacturing"
+325520,2022,66.7,"Paint, coating, and adhesive manufacturing"
+325520,2023,64.73,"Paint, coating, and adhesive manufacturing"
+325520,2024,63.62,"Paint, coating, and adhesive manufacturing"
+325620,2008,63.8,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2009,54.25,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2010,63.19,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2011,65.4,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2012,59.99,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2013,58.7,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2014,58.28,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2015,54.84,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2016,58.38,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2017,70.1,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2018,71.53,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2019,69.8,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2020,70.3,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2021,75.3,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2022,73.05,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2023,70.75,"Soap, cleaning compound, and toilet preparation manufacturing"
+325620,2024,70.68,"Soap, cleaning compound, and toilet preparation manufacturing"
+325998,2008,62.67,Other chemical product and preparation manufacturing
+325998,2009,57.12,Other chemical product and preparation manufacturing
+325998,2010,65.18,Other chemical product and preparation manufacturing
+325998,2011,66.13,Other chemical product and preparation manufacturing
+325998,2012,66.33,Other chemical product and preparation manufacturing
+325998,2013,65.97,Other chemical product and preparation manufacturing
+325998,2014,67.84,Other chemical product and preparation manufacturing
+325998,2015,58.91,Other chemical product and preparation manufacturing
+325998,2016,58.78,Other chemical product and preparation manufacturing
+325998,2017,64.28,Other chemical product and preparation manufacturing
+325998,2018,66.68,Other chemical product and preparation manufacturing
+325998,2019,66.32,Other chemical product and preparation manufacturing
+325998,2020,73.6,Other chemical product and preparation manufacturing
+325998,2021,78.15,Other chemical product and preparation manufacturing
+325998,2022,77.12,Other chemical product and preparation manufacturing
+325998,2023,74.22,Other chemical product and preparation manufacturing
+325998,2024,75.25,Other chemical product and preparation manufacturing
+326199,2008,62.41,Plastics product manufacturing
+326199,2009,52.46,Plastics product manufacturing
+326199,2010,62.91,Plastics product manufacturing
+326199,2011,65.42,Plastics product manufacturing
+326199,2012,64.21,Plastics product manufacturing
+326199,2013,69.02,Plastics product manufacturing
+326199,2014,69.28,Plastics product manufacturing
+326199,2015,71.58,Plastics product manufacturing
+326199,2016,75.2,Plastics product manufacturing
+326199,2017,75.35,Plastics product manufacturing
+326199,2018,73.32,Plastics product manufacturing
+326199,2019,70.35,Plastics product manufacturing
+326199,2020,75.88,Plastics product manufacturing
+326199,2021,76.62,Plastics product manufacturing
+326199,2022,72.6,Plastics product manufacturing
+326199,2023,64.52,Plastics product manufacturing
+326199,2024,67.28,Plastics product manufacturing
+326212,2008,74.68,Tire manufacturing
+326212,2009,65.98,Tire manufacturing
+326212,2010,82.14,Tire manufacturing
+326212,2011,89.53,Tire manufacturing
+326212,2012,87.31,Tire manufacturing
+326212,2013,85.82,Tire manufacturing
+326212,2014,85.02,Tire manufacturing
+326212,2015,89.15,Tire manufacturing
+326212,2016,85.58,Tire manufacturing
+326212,2017,83.55,Tire manufacturing
+326212,2018,84.28,Tire manufacturing
+326212,2019,83.32,Tire manufacturing
+326212,2020,69.6,Tire manufacturing
+326212,2021,84.1,Tire manufacturing
+326212,2022,85.02,Tire manufacturing
+326212,2023,80.45,Tire manufacturing
+326212,2024,69.72,Tire manufacturing
+326299,2008,66.1,All other rubber product (excluding tires) manufacturing
+326299,2009,53.31,All other rubber product (excluding tires) manufacturing
+326299,2010,65.02,All other rubber product (excluding tires) manufacturing
+326299,2011,72.23,All other rubber product (excluding tires) manufacturing
+326299,2012,70.95,All other rubber product (excluding tires) manufacturing
+326299,2013,72.35,All other rubber product (excluding tires) manufacturing
+326299,2014,72.08,All other rubber product (excluding tires) manufacturing
+326299,2015,69.73,All other rubber product (excluding tires) manufacturing
+326299,2016,70.78,All other rubber product (excluding tires) manufacturing
+326299,2017,68.6,All other rubber product (excluding tires) manufacturing
+326299,2018,69.32,All other rubber product (excluding tires) manufacturing
+326299,2019,71.57,All other rubber product (excluding tires) manufacturing
+326299,2020,74.08,All other rubber product (excluding tires) manufacturing
+326299,2021,77.25,All other rubber product (excluding tires) manufacturing
+326299,2022,71.53,All other rubber product (excluding tires) manufacturing
+326299,2023,66.6,All other rubber product (excluding tires) manufacturing
+326299,2024,66.18,All other rubber product (excluding tires) manufacturing
+327120,2008,49.33,Clay product and refractory manufacturing
+327120,2009,41.04,Clay product and refractory manufacturing
+327120,2010,48.92,Clay product and refractory manufacturing
+327120,2011,52.45,Clay product and refractory manufacturing
+327120,2012,52.96,Clay product and refractory manufacturing
+327120,2013,51.26,Clay product and refractory manufacturing
+327120,2014,52.61,Clay product and refractory manufacturing
+327120,2015,64.01,Clay product and refractory manufacturing
+327120,2016,66.75,Clay product and refractory manufacturing
+327120,2017,64.85,Clay product and refractory manufacturing
+327120,2018,74.85,Clay product and refractory manufacturing
+327120,2019,72.25,Clay product and refractory manufacturing
+327120,2020,66.53,Clay product and refractory manufacturing
+327120,2021,74.58,Clay product and refractory manufacturing
+327120,2022,71.28,Clay product and refractory manufacturing
+327120,2023,74.85,Clay product and refractory manufacturing
+327120,2024,75.0,Clay product and refractory manufacturing
+327215,2008,82.44,Glass and glass product manufacturing
+327215,2009,68.34,Glass and glass product manufacturing
+327215,2010,78.42,Glass and glass product manufacturing
+327215,2011,79.01,Glass and glass product manufacturing
+327215,2012,78.28,Glass and glass product manufacturing
+327215,2013,78.26,Glass and glass product manufacturing
+327215,2014,81.22,Glass and glass product manufacturing
+327215,2015,80.29,Glass and glass product manufacturing
+327215,2016,79.85,Glass and glass product manufacturing
+327215,2017,79.3,Glass and glass product manufacturing
+327215,2018,79.9,Glass and glass product manufacturing
+327215,2019,77.05,Glass and glass product manufacturing
+327215,2020,78.2,Glass and glass product manufacturing
+327215,2021,89.2,Glass and glass product manufacturing
+327215,2022,90.32,Glass and glass product manufacturing
+327215,2023,87.65,Glass and glass product manufacturing
+327215,2024,85.93,Glass and glass product manufacturing
+327310,2008,72.76,Cement manufacturing
+327310,2009,54.52,Cement manufacturing
+327310,2010,59.04,Cement manufacturing
+327310,2011,59.75,Cement manufacturing
+327310,2012,63.82,Cement manufacturing
+327310,2013,66.04,Cement manufacturing
+327310,2014,69.21,Cement manufacturing
+327310,2015,66.54,Cement manufacturing
+327310,2016,58.92,Cement manufacturing
+327310,2017,64.82,Cement manufacturing
+327310,2018,63.52,Cement manufacturing
+327310,2019,65.47,Cement manufacturing
+327310,2020,80.7,Cement manufacturing
+327310,2021,76.8,Cement manufacturing
+327310,2022,67.92,Cement manufacturing
+327310,2023,69.47,Cement manufacturing
+327310,2024,68.42,Cement manufacturing
+327332,2014,45.47,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2015,50.2,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2016,52.98,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2017,46.92,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2018,55.48,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2019,54.12,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2020,62.05,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2021,65.6,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2022,73.12,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2023,71.42,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327332,2024,71.3,"Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing"
+327420,2008,65.77,Lime and gypsum product manufacturing
+327420,2009,55.87,Lime and gypsum product manufacturing
+327420,2010,46.83,Lime and gypsum product manufacturing
+327420,2011,46.19,Lime and gypsum product manufacturing
+327420,2012,51.39,Lime and gypsum product manufacturing
+327420,2013,53.54,Lime and gypsum product manufacturing
+327420,2014,51.5,Lime and gypsum product manufacturing
+327420,2015,64.67,Lime and gypsum product manufacturing
+327420,2016,66.92,Lime and gypsum product manufacturing
+327420,2017,71.55,Lime and gypsum product manufacturing
+327420,2018,68.77,Lime and gypsum product manufacturing
+327420,2019,71.28,Lime and gypsum product manufacturing
+327420,2020,81.9,Lime and gypsum product manufacturing
+327420,2021,90.95,Lime and gypsum product manufacturing
+327420,2022,90.55,Lime and gypsum product manufacturing
+327420,2023,92.07,Lime and gypsum product manufacturing
+327420,2024,93.2,Lime and gypsum product manufacturing
+327999,2008,72.77,Other nonmetallic mineral product manufacturing
+327999,2009,49.6,Other nonmetallic mineral product manufacturing
+327999,2010,61.18,Other nonmetallic mineral product manufacturing
+327999,2011,66.27,Other nonmetallic mineral product manufacturing
+327999,2012,61.42,Other nonmetallic mineral product manufacturing
+327999,2013,61.74,Other nonmetallic mineral product manufacturing
+327999,2014,65.32,Other nonmetallic mineral product manufacturing
+327999,2015,74.23,Other nonmetallic mineral product manufacturing
+327999,2016,75.95,Other nonmetallic mineral product manufacturing
+327999,2017,78.93,Other nonmetallic mineral product manufacturing
+327999,2018,76.68,Other nonmetallic mineral product manufacturing
+327999,2019,74.38,Other nonmetallic mineral product manufacturing
+327999,2020,67.62,Other nonmetallic mineral product manufacturing
+327999,2021,82.65,Other nonmetallic mineral product manufacturing
+327999,2022,84.25,Other nonmetallic mineral product manufacturing
+327999,2023,85.35,Other nonmetallic mineral product manufacturing
+327999,2024,83.0,Other nonmetallic mineral product manufacturing
+331222,2008,75.47,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2009,51.1,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2010,70.15,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2011,71.89,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2012,73.41,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2013,76.16,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2014,75.85,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2015,68.93,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2016,72.25,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2017,76.5,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2018,75.75,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2019,74.2,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2020,64.95,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2021,75.25,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2022,67.88,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2023,69.7,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331222,2024,68.2,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel
+331318,2008,84.7,Alumina and aluminum production and processing
+331318,2009,62.56,Alumina and aluminum production and processing
+331318,2010,63.89,Alumina and aluminum production and processing
+331318,2011,62.87,Alumina and aluminum production and processing
+331318,2012,76.67,Alumina and aluminum production and processing
+331318,2013,80.41,Alumina and aluminum production and processing
+331318,2014,71.95,Alumina and aluminum production and processing
+331318,2015,83.13,Alumina and aluminum production and processing
+331318,2016,74.22,Alumina and aluminum production and processing
+331318,2017,72.7,Alumina and aluminum production and processing
+331318,2018,71.12,Alumina and aluminum production and processing
+331318,2019,76.9,Alumina and aluminum production and processing
+331318,2020,73.6,Alumina and aluminum production and processing
+331318,2021,86.25,Alumina and aluminum production and processing
+331318,2022,86.55,Alumina and aluminum production and processing
+331318,2023,84.25,Alumina and aluminum production and processing
+331318,2024,82.2,Alumina and aluminum production and processing
+331492,2008,69.36,Nonferrous metal (except aluminum) production and processing
+331492,2009,63.2,Nonferrous metal (except aluminum) production and processing
+331492,2010,63.42,Nonferrous metal (except aluminum) production and processing
+331492,2011,64.05,Nonferrous metal (except aluminum) production and processing
+331492,2012,55.23,Nonferrous metal (except aluminum) production and processing
+331492,2013,54.41,Nonferrous metal (except aluminum) production and processing
+331492,2014,53.0,Nonferrous metal (except aluminum) production and processing
+331492,2015,58.81,Nonferrous metal (except aluminum) production and processing
+331492,2016,60.0,Nonferrous metal (except aluminum) production and processing
+331492,2017,55.6,Nonferrous metal (except aluminum) production and processing
+331492,2018,66.3,Nonferrous metal (except aluminum) production and processing
+331492,2019,61.75,Nonferrous metal (except aluminum) production and processing
+331492,2020,56.78,Nonferrous metal (except aluminum) production and processing
+331492,2021,63.65,Nonferrous metal (except aluminum) production and processing
+331492,2022,68.03,Nonferrous metal (except aluminum) production and processing
+331492,2023,74.62,Nonferrous metal (except aluminum) production and processing
+331492,2024,75.97,Nonferrous metal (except aluminum) production and processing
+331529,2008,63.8,Foundries
+331529,2009,48.26,Foundries
+331529,2010,69.14,Foundries
+331529,2011,72.03,Foundries
+331529,2012,74.16,Foundries
+331529,2013,73.31,Foundries
+331529,2014,75.56,Foundries
+331529,2015,70.35,Foundries
+331529,2016,68.58,Foundries
+331529,2017,75.55,Foundries
+331529,2018,72.38,Foundries
+331529,2019,68.32,Foundries
+331529,2020,66.55,Foundries
+331529,2021,71.28,Foundries
+331529,2022,74.9,Foundries
+331529,2023,63.62,Foundries
+331529,2024,57.35,Foundries
+332618,2008,69.56,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2009,59.29,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2010,63.57,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2011,60.84,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2012,69.19,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2013,67.62,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2014,71.34,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2015,67.72,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2016,62.8,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2017,66.12,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2018,72.45,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2019,71.9,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2020,63.45,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2021,69.55,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2022,72.6,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2023,71.88,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332618,2024,71.0,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing"
+332999,2008,71.69,All other fabricated metal product manufacturing
+332999,2009,62.61,All other fabricated metal product manufacturing
+332999,2010,60.09,All other fabricated metal product manufacturing
+332999,2011,68.05,All other fabricated metal product manufacturing
+332999,2012,69.27,All other fabricated metal product manufacturing
+332999,2013,67.52,All other fabricated metal product manufacturing
+332999,2014,66.11,All other fabricated metal product manufacturing
+332999,2015,64.62,All other fabricated metal product manufacturing
+332999,2016,61.82,All other fabricated metal product manufacturing
+332999,2017,65.28,All other fabricated metal product manufacturing
+332999,2018,68.68,All other fabricated metal product manufacturing
+332999,2019,68.42,All other fabricated metal product manufacturing
+332999,2020,66.1,All other fabricated metal product manufacturing
+332999,2021,69.2,All other fabricated metal product manufacturing
+332999,2022,79.1,All other fabricated metal product manufacturing
+332999,2023,73.88,All other fabricated metal product manufacturing
+332999,2024,68.8,All other fabricated metal product manufacturing
+333132,2008,76.36,"Agriculture, construction, and mining machinery manufacturing"
+333132,2009,55.23,"Agriculture, construction, and mining machinery manufacturing"
+333132,2010,63.49,"Agriculture, construction, and mining machinery manufacturing"
+333132,2011,75.64,"Agriculture, construction, and mining machinery manufacturing"
+333132,2012,74.66,"Agriculture, construction, and mining machinery manufacturing"
+333132,2013,66.39,"Agriculture, construction, and mining machinery manufacturing"
+333132,2014,62.93,"Agriculture, construction, and mining machinery manufacturing"
+333132,2015,57.68,"Agriculture, construction, and mining machinery manufacturing"
+333132,2016,50.2,"Agriculture, construction, and mining machinery manufacturing"
+333132,2017,54.05,"Agriculture, construction, and mining machinery manufacturing"
+333132,2018,62.65,"Agriculture, construction, and mining machinery manufacturing"
+333132,2019,62.18,"Agriculture, construction, and mining machinery manufacturing"
+333132,2020,65.93,"Agriculture, construction, and mining machinery manufacturing"
+333132,2021,68.2,"Agriculture, construction, and mining machinery manufacturing"
+333132,2022,69.5,"Agriculture, construction, and mining machinery manufacturing"
+333132,2023,69.47,"Agriculture, construction, and mining machinery manufacturing"
+333132,2024,62.7,"Agriculture, construction, and mining machinery manufacturing"
+333249,2008,63.08,Industrial machinery manufacturing
+333249,2009,50.2,Industrial machinery manufacturing
+333249,2010,60.47,Industrial machinery manufacturing
+333249,2011,63.72,Industrial machinery manufacturing
+333249,2012,59.88,Industrial machinery manufacturing
+333249,2013,59.6,Industrial machinery manufacturing
+333249,2014,58.22,Industrial machinery manufacturing
+333249,2015,60.69,Industrial machinery manufacturing
+333249,2016,59.95,Industrial machinery manufacturing
+333249,2017,71.08,Industrial machinery manufacturing
+333249,2018,76.53,Industrial machinery manufacturing
+333249,2019,72.47,Industrial machinery manufacturing
+333249,2020,76.35,Industrial machinery manufacturing
+333249,2021,75.45,Industrial machinery manufacturing
+333249,2022,80.62,Industrial machinery manufacturing
+333249,2023,77.9,Industrial machinery manufacturing
+333249,2024,72.95,Industrial machinery manufacturing
+333318,2008,74.12,Commercial and service industry machinery manufacturing
+333318,2009,70.02,Commercial and service industry machinery manufacturing
+333318,2010,75.85,Commercial and service industry machinery manufacturing
+333318,2011,75.76,Commercial and service industry machinery manufacturing
+333318,2012,76.52,Commercial and service industry machinery manufacturing
+333318,2013,74.09,Commercial and service industry machinery manufacturing
+333318,2014,78.55,Commercial and service industry machinery manufacturing
+333318,2015,76.84,Commercial and service industry machinery manufacturing
+333318,2016,77.47,Commercial and service industry machinery manufacturing
+333318,2017,73.0,Commercial and service industry machinery manufacturing
+333318,2018,79.9,Commercial and service industry machinery manufacturing
+333318,2019,76.58,Commercial and service industry machinery manufacturing
+333318,2020,70.05,Commercial and service industry machinery manufacturing
+333318,2021,76.18,Commercial and service industry machinery manufacturing
+333318,2022,77.8,Commercial and service industry machinery manufacturing
+333318,2023,70.55,Commercial and service industry machinery manufacturing
+333318,2024,68.97,Commercial and service industry machinery manufacturing
+333415,2008,70.12,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2009,59.91,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2010,61.27,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2011,59.66,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2012,54.57,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2013,55.19,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2014,58.71,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2015,63.97,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2016,65.62,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2017,71.78,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2018,70.72,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2019,70.82,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2020,66.85,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2021,73.62,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2022,74.78,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2023,70.53,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333415,2024,69.1,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing"
+333519,2008,73.28,Metalworking machinery manufacturing
+333519,2009,50.03,Metalworking machinery manufacturing
+333519,2010,59.7,Metalworking machinery manufacturing
+333519,2011,69.75,Metalworking machinery manufacturing
+333519,2012,73.47,Metalworking machinery manufacturing
+333519,2013,64.47,Metalworking machinery manufacturing
+333519,2014,62.29,Metalworking machinery manufacturing
+333519,2015,69.64,Metalworking machinery manufacturing
+333519,2016,67.32,Metalworking machinery manufacturing
+333519,2017,70.75,Metalworking machinery manufacturing
+333519,2018,72.28,Metalworking machinery manufacturing
+333519,2019,74.6,Metalworking machinery manufacturing
+333519,2020,64.77,Metalworking machinery manufacturing
+333519,2021,66.78,Metalworking machinery manufacturing
+333519,2022,71.9,Metalworking machinery manufacturing
+333519,2023,80.65,Metalworking machinery manufacturing
+333519,2024,72.03,Metalworking machinery manufacturing
+333618,2008,66.16,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2009,51.51,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2010,56.67,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2011,73.07,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2012,77.96,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2013,73.64,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2014,78.13,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2015,69.71,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2016,60.12,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2017,66.4,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2018,61.85,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2019,63.0,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2020,61.15,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2021,71.15,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2022,71.58,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2023,74.05,"Engine, turbine, and power transmission equipment manufacturing"
+333618,2024,70.35,"Engine, turbine, and power transmission equipment manufacturing"
+333999,2008,69.26,Other general purpose machinery manufacturing
+333999,2009,56.05,Other general purpose machinery manufacturing
+333999,2010,63.45,Other general purpose machinery manufacturing
+333999,2011,70.89,Other general purpose machinery manufacturing
+333999,2012,67.53,Other general purpose machinery manufacturing
+333999,2013,66.18,Other general purpose machinery manufacturing
+333999,2014,67.87,Other general purpose machinery manufacturing
+333999,2015,67.98,Other general purpose machinery manufacturing
+333999,2016,61.32,Other general purpose machinery manufacturing
+333999,2017,69.6,Other general purpose machinery manufacturing
+333999,2018,70.93,Other general purpose machinery manufacturing
+333999,2019,67.9,Other general purpose machinery manufacturing
+333999,2020,69.1,Other general purpose machinery manufacturing
+333999,2021,73.4,Other general purpose machinery manufacturing
+333999,2022,79.53,Other general purpose machinery manufacturing
+333999,2023,79.08,Other general purpose machinery manufacturing
+333999,2024,78.42,Other general purpose machinery manufacturing
+334118,2008,71.56,Computer and peripheral equipment manufacturing
+334118,2009,73.57,Computer and peripheral equipment manufacturing
+334118,2010,76.58,Computer and peripheral equipment manufacturing
+334118,2011,62.69,Computer and peripheral equipment manufacturing
+334118,2012,62.15,Computer and peripheral equipment manufacturing
+334118,2013,55.77,Computer and peripheral equipment manufacturing
+334118,2014,56.95,Computer and peripheral equipment manufacturing
+334118,2015,62.49,Computer and peripheral equipment manufacturing
+334118,2016,65.25,Computer and peripheral equipment manufacturing
+334118,2017,72.9,Computer and peripheral equipment manufacturing
+334118,2018,65.9,Computer and peripheral equipment manufacturing
+334118,2019,58.03,Computer and peripheral equipment manufacturing
+334118,2020,57.83,Computer and peripheral equipment manufacturing
+334118,2021,54.6,Computer and peripheral equipment manufacturing
+334118,2022,64.45,Computer and peripheral equipment manufacturing
+334118,2023,61.12,Computer and peripheral equipment manufacturing
+334118,2024,64.82,Computer and peripheral equipment manufacturing
+334290,2008,79.28,Communications equipment manufacturing
+334290,2009,72.33,Communications equipment manufacturing
+334290,2010,72.19,Communications equipment manufacturing
+334290,2011,68.19,Communications equipment manufacturing
+334290,2012,70.14,Communications equipment manufacturing
+334290,2013,69.04,Communications equipment manufacturing
+334290,2014,66.96,Communications equipment manufacturing
+334290,2015,58.83,Communications equipment manufacturing
+334290,2016,61.28,Communications equipment manufacturing
+334290,2017,53.88,Communications equipment manufacturing
+334290,2018,48.18,Communications equipment manufacturing
+334290,2019,52.65,Communications equipment manufacturing
+334290,2020,56.75,Communications equipment manufacturing
+334290,2021,63.58,Communications equipment manufacturing
+334290,2022,62.25,Communications equipment manufacturing
+334290,2023,60.25,Communications equipment manufacturing
+334290,2024,55.35,Communications equipment manufacturing
+334413,2008,78.36,Semiconductor and related device manufacturing
+334413,2009,54.93,Semiconductor and related device manufacturing
+334413,2010,79.41,Semiconductor and related device manufacturing
+334413,2011,77.13,Semiconductor and related device manufacturing
+334413,2012,65.2,Semiconductor and related device manufacturing
+334413,2013,68.56,Semiconductor and related device manufacturing
+334413,2014,74.57,Semiconductor and related device manufacturing
+334413,2015,85.63,Semiconductor and related device manufacturing
+334413,2016,79.3,Semiconductor and related device manufacturing
+334413,2017,83.8,Semiconductor and related device manufacturing
+334413,2018,82.28,Semiconductor and related device manufacturing
+334413,2019,75.65,Semiconductor and related device manufacturing
+334413,2020,84.6,Semiconductor and related device manufacturing
+334413,2021,86.32,Semiconductor and related device manufacturing
+334413,2022,83.42,Semiconductor and related device manufacturing
+334413,2023,75.8,Semiconductor and related device manufacturing
+334413,2024,74.32,Semiconductor and related device manufacturing
+334419,2008,60.29,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2009,45.57,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2010,58.1,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2011,51.79,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2012,55.87,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2013,52.52,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2014,51.7,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2015,57.08,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2016,58.2,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2017,61.2,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2018,64.3,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2019,67.12,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2020,68.12,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2021,71.65,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2022,77.52,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2023,80.18,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334419,2024,75.15,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing"
+334519,2008,65.11,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2009,58.54,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2010,68.42,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2011,70.07,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2012,69.13,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2013,67.56,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2014,65.59,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2015,61.59,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2016,62.0,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2017,61.82,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2018,64.15,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2019,63.95,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2020,74.42,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2021,83.25,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2022,76.4,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2023,79.18,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334519,2024,82.08,"Navigational, measuring, electromedical, and control instruments manufacturing"
+334614,2008,68.42,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2009,57.07,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2010,66.61,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2011,57.68,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2012,49.19,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2013,41.77,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2014,41.85,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2015,47.19,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2016,38.97,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2017,42.1,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2018,47.25,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2019,61.68,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2020,69.88,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2021,76.22,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2022,53.18,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2023,67.47,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+334614,2024,91.92,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media
+335129,2008,63.13,Electric lighting equipment manufacturing
+335129,2009,58.44,Electric lighting equipment manufacturing
+335129,2010,50.67,Electric lighting equipment manufacturing
+335129,2011,56.84,Electric lighting equipment manufacturing
+335129,2012,54.77,Electric lighting equipment manufacturing
+335129,2013,59.9,Electric lighting equipment manufacturing
+335129,2014,53.07,Electric lighting equipment manufacturing
+335129,2015,53.84,Electric lighting equipment manufacturing
+335129,2016,54.55,Electric lighting equipment manufacturing
+335129,2017,56.6,Electric lighting equipment manufacturing
+335129,2018,56.62,Electric lighting equipment manufacturing
+335129,2019,58.35,Electric lighting equipment manufacturing
+335129,2020,62.05,Electric lighting equipment manufacturing
+335129,2021,65.42,Electric lighting equipment manufacturing
+335129,2022,63.05,Electric lighting equipment manufacturing
+335129,2023,73.05,Electric lighting equipment manufacturing
+335129,2024,75.08,Electric lighting equipment manufacturing
+335220,2008,68.98,Household appliance manufacturing
+335220,2009,59.46,Household appliance manufacturing
+335220,2010,64.99,Household appliance manufacturing
+335220,2011,61.95,Household appliance manufacturing
+335220,2012,64.94,Household appliance manufacturing
+335220,2013,67.73,Household appliance manufacturing
+335220,2014,65.16,Household appliance manufacturing
+335220,2015,67.97,Household appliance manufacturing
+335220,2016,71.22,Household appliance manufacturing
+335220,2017,71.05,Household appliance manufacturing
+335220,2018,63.72,Household appliance manufacturing
+335220,2019,58.25,Household appliance manufacturing
+335220,2020,55.92,Household appliance manufacturing
+335220,2021,54.15,Household appliance manufacturing
+335220,2022,63.2,Household appliance manufacturing
+335220,2023,69.53,Household appliance manufacturing
+335220,2024,61.9,Household appliance manufacturing
+335999,2008,72.74,Electrical equipment and component manufacturing
+335999,2009,58.0,Electrical equipment and component manufacturing
+335999,2010,64.85,Electrical equipment and component manufacturing
+335999,2011,71.53,Electrical equipment and component manufacturing
+335999,2012,71.46,Electrical equipment and component manufacturing
+335999,2013,73.22,Electrical equipment and component manufacturing
+335999,2014,70.83,Electrical equipment and component manufacturing
+335999,2015,63.99,Electrical equipment and component manufacturing
+335999,2016,61.42,Electrical equipment and component manufacturing
+335999,2017,67.7,Electrical equipment and component manufacturing
+335999,2018,65.15,Electrical equipment and component manufacturing
+335999,2019,71.18,Electrical equipment and component manufacturing
+335999,2020,65.42,Electrical equipment and component manufacturing
+335999,2021,70.4,Electrical equipment and component manufacturing
+335999,2022,75.45,Electrical equipment and component manufacturing
+335999,2023,75.82,Electrical equipment and component manufacturing
+335999,2024,80.65,Electrical equipment and component manufacturing
+336111,2008,78.97,Automobile manufacturing
+336111,2009,48.62,Automobile manufacturing
+336111,2010,54.47,Automobile manufacturing
+336111,2011,58.0,Automobile manufacturing
+336111,2012,72.95,Automobile manufacturing
+336111,2013,80.07,Automobile manufacturing
+336111,2014,82.02,Automobile manufacturing
+336111,2015,69.97,Automobile manufacturing
+336111,2016,73.85,Automobile manufacturing
+336111,2017,63.73,Automobile manufacturing
+336111,2018,65.8,Automobile manufacturing
+336111,2019,56.22,Automobile manufacturing
+336111,2020,67.25,Automobile manufacturing
+336111,2021,71.2,Automobile manufacturing
+336111,2022,80.35,Automobile manufacturing
+336111,2023,82.0,Automobile manufacturing
+336111,2024,80.0,Automobile manufacturing
+336112,2008,56.24,Light truck and utility vehicle manufacturing
+336112,2009,49.34,Light truck and utility vehicle manufacturing
+336112,2010,78.0,Light truck and utility vehicle manufacturing
+336112,2011,74.77,Light truck and utility vehicle manufacturing
+336112,2012,90.68,Light truck and utility vehicle manufacturing
+336112,2013,92.7,Light truck and utility vehicle manufacturing
+336112,2014,91.91,Light truck and utility vehicle manufacturing
+336112,2015,95.87,Light truck and utility vehicle manufacturing
+336112,2016,92.88,Light truck and utility vehicle manufacturing
+336112,2017,90.9,Light truck and utility vehicle manufacturing
+336112,2018,90.52,Light truck and utility vehicle manufacturing
+336112,2019,86.55,Light truck and utility vehicle manufacturing
+336112,2020,74.0,Light truck and utility vehicle manufacturing
+336112,2021,80.15,Light truck and utility vehicle manufacturing
+336112,2022,80.1,Light truck and utility vehicle manufacturing
+336112,2023,84.93,Light truck and utility vehicle manufacturing
+336112,2024,83.25,Light truck and utility vehicle manufacturing
+336120,2008,39.06,Heavy duty truck manufacturing
+336120,2009,28.5,Heavy duty truck manufacturing
+336120,2010,35.13,Heavy duty truck manufacturing
+336120,2011,56.54,Heavy duty truck manufacturing
+336120,2012,55.68,Heavy duty truck manufacturing
+336120,2013,50.65,Heavy duty truck manufacturing
+336120,2014,57.05,Heavy duty truck manufacturing
+336120,2015,63.36,Heavy duty truck manufacturing
+336120,2016,57.75,Heavy duty truck manufacturing
+336120,2017,56.22,Heavy duty truck manufacturing
+336120,2018,72.68,Heavy duty truck manufacturing
+336120,2019,75.7,Heavy duty truck manufacturing
+336120,2020,43.35,Heavy duty truck manufacturing
+336120,2021,58.3,Heavy duty truck manufacturing
+336120,2022,55.88,Heavy duty truck manufacturing
+336120,2023,75.8,Heavy duty truck manufacturing
+336120,2024,71.6,Heavy duty truck manufacturing
+336214,2008,55.16,Motor vehicle body and trailer manufacturing
+336214,2009,38.61,Motor vehicle body and trailer manufacturing
+336214,2010,52.83,Motor vehicle body and trailer manufacturing
+336214,2011,60.99,Motor vehicle body and trailer manufacturing
+336214,2012,62.7,Motor vehicle body and trailer manufacturing
+336214,2013,65.06,Motor vehicle body and trailer manufacturing
+336214,2014,69.0,Motor vehicle body and trailer manufacturing
+336214,2015,78.31,Motor vehicle body and trailer manufacturing
+336214,2016,80.97,Motor vehicle body and trailer manufacturing
+336214,2017,77.2,Motor vehicle body and trailer manufacturing
+336214,2018,78.03,Motor vehicle body and trailer manufacturing
+336214,2019,74.4,Motor vehicle body and trailer manufacturing
+336214,2020,73.2,Motor vehicle body and trailer manufacturing
+336214,2021,81.8,Motor vehicle body and trailer manufacturing
+336214,2022,82.15,Motor vehicle body and trailer manufacturing
+336214,2023,75.7,Motor vehicle body and trailer manufacturing
+336214,2024,66.97,Motor vehicle body and trailer manufacturing
+336390,2008,58.36,Motor vehicle parts manufacturing
+336390,2009,40.08,Motor vehicle parts manufacturing
+336390,2010,55.84,Motor vehicle parts manufacturing
+336390,2011,70.44,Motor vehicle parts manufacturing
+336390,2012,69.83,Motor vehicle parts manufacturing
+336390,2013,66.71,Motor vehicle parts manufacturing
+336390,2014,71.99,Motor vehicle parts manufacturing
+336390,2015,81.72,Motor vehicle parts manufacturing
+336390,2016,82.12,Motor vehicle parts manufacturing
+336390,2017,79.22,Motor vehicle parts manufacturing
+336390,2018,75.45,Motor vehicle parts manufacturing
+336390,2019,70.77,Motor vehicle parts manufacturing
+336390,2020,67.32,Motor vehicle parts manufacturing
+336390,2021,75.5,Motor vehicle parts manufacturing
+336390,2022,77.88,Motor vehicle parts manufacturing
+336390,2023,80.32,Motor vehicle parts manufacturing
+336390,2024,79.42,Motor vehicle parts manufacturing
+336419,2008,62.46,Aerospace product and parts manufacturing
+336419,2009,75.03,Aerospace product and parts manufacturing
+336419,2010,79.13,Aerospace product and parts manufacturing
+336419,2011,82.18,Aerospace product and parts manufacturing
+336419,2012,82.17,Aerospace product and parts manufacturing
+336419,2013,83.29,Aerospace product and parts manufacturing
+336419,2014,84.86,Aerospace product and parts manufacturing
+336419,2015,85.48,Aerospace product and parts manufacturing
+336419,2016,66.32,Aerospace product and parts manufacturing
+336419,2017,68.2,Aerospace product and parts manufacturing
+336419,2018,72.25,Aerospace product and parts manufacturing
+336419,2019,76.03,Aerospace product and parts manufacturing
+336419,2020,43.5,Aerospace product and parts manufacturing
+336419,2021,54.6,Aerospace product and parts manufacturing
+336419,2022,59.78,Aerospace product and parts manufacturing
+336419,2023,61.1,Aerospace product and parts manufacturing
+336419,2024,56.0,Aerospace product and parts manufacturing
+336999,2008,62.26,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2009,54.92,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2010,41.83,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2011,34.85,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2012,36.7,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2013,52.88,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2014,55.04,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2015,59.53,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2016,57.05,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2017,56.32,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2018,56.12,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2019,57.72,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2020,54.38,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2021,59.22,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2022,60.25,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2023,60.92,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+336999,2024,58.32,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing"
+337127,2008,74.14,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2009,67.0,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2010,59.84,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2011,56.73,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2012,60.9,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2013,66.01,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2014,67.09,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2015,72.23,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2016,73.0,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2017,70.05,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2018,73.7,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2019,76.82,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2020,69.95,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2021,75.28,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2022,74.45,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2023,66.8,Household and institutional furniture and kitchen cabinet manufacturing
+337127,2024,67.15,Household and institutional furniture and kitchen cabinet manufacturing
+337215,2008,66.21,Office furniture (incl. fixtures) manufacturing
+337215,2009,57.49,Office furniture (incl. fixtures) manufacturing
+337215,2010,60.29,Office furniture (incl. fixtures) manufacturing
+337215,2011,59.36,Office furniture (incl. fixtures) manufacturing
+337215,2012,63.09,Office furniture (incl. fixtures) manufacturing
+337215,2013,59.79,Office furniture (incl. fixtures) manufacturing
+337215,2014,63.85,Office furniture (incl. fixtures) manufacturing
+337215,2015,69.22,Office furniture (incl. fixtures) manufacturing
+337215,2016,73.05,Office furniture (incl. fixtures) manufacturing
+337215,2017,71.35,Office furniture (incl. fixtures) manufacturing
+337215,2018,71.42,Office furniture (incl. fixtures) manufacturing
+337215,2019,72.0,Office furniture (incl. fixtures) manufacturing
+337215,2020,71.28,Office furniture (incl. fixtures) manufacturing
+337215,2021,72.75,Office furniture (incl. fixtures) manufacturing
+337215,2022,81.42,Office furniture (incl. fixtures) manufacturing
+337215,2023,70.38,Office furniture (incl. fixtures) manufacturing
+337215,2024,74.15,Office furniture (incl. fixtures) manufacturing
+337920,2008,67.74,Other furniture related product manufacturing
+337920,2009,66.74,Other furniture related product manufacturing
+337920,2010,66.46,Other furniture related product manufacturing
+337920,2011,72.13,Other furniture related product manufacturing
+337920,2012,70.38,Other furniture related product manufacturing
+337920,2013,72.29,Other furniture related product manufacturing
+337920,2014,74.87,Other furniture related product manufacturing
+337920,2015,80.94,Other furniture related product manufacturing
+337920,2016,74.3,Other furniture related product manufacturing
+337920,2017,69.8,Other furniture related product manufacturing
+337920,2018,65.92,Other furniture related product manufacturing
+337920,2019,66.82,Other furniture related product manufacturing
+337920,2020,74.45,Other furniture related product manufacturing
+337920,2021,84.65,Other furniture related product manufacturing
+337920,2022,76.77,Other furniture related product manufacturing
+337920,2023,66.85,Other furniture related product manufacturing
+337920,2024,70.95,Other furniture related product manufacturing
+339116,2008,72.43,Medical equipment and supplies manufacturing
+339116,2009,70.21,Medical equipment and supplies manufacturing
+339116,2010,74.01,Medical equipment and supplies manufacturing
+339116,2011,72.33,Medical equipment and supplies manufacturing
+339116,2012,71.6,Medical equipment and supplies manufacturing
+339116,2013,71.28,Medical equipment and supplies manufacturing
+339116,2014,71.3,Medical equipment and supplies manufacturing
+339116,2015,71.27,Medical equipment and supplies manufacturing
+339116,2016,70.58,Medical equipment and supplies manufacturing
+339116,2017,72.82,Medical equipment and supplies manufacturing
+339116,2018,73.3,Medical equipment and supplies manufacturing
+339116,2019,73.3,Medical equipment and supplies manufacturing
+339116,2020,73.6,Medical equipment and supplies manufacturing
+339116,2021,85.75,Medical equipment and supplies manufacturing
+339116,2022,80.82,Medical equipment and supplies manufacturing
+339116,2023,81.78,Medical equipment and supplies manufacturing
+339116,2024,69.75,Medical equipment and supplies manufacturing
+339930,2008,61.6,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2009,52.3,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2010,59.79,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2011,61.67,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2012,59.95,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2013,66.73,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2014,71.16,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2015,67.46,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2016,65.85,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2017,70.45,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2018,76.68,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2019,74.85,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2020,69.88,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2021,83.82,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2022,82.22,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2023,75.68,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339930,2024,82.3,"Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing"
+339950,2008,68.82,Office supplies (except paper) and sign manufacturing
+339950,2009,65.57,Office supplies (except paper) and sign manufacturing
+339950,2010,67.0,Office supplies (except paper) and sign manufacturing
+339950,2011,66.24,Office supplies (except paper) and sign manufacturing
+339950,2012,63.15,Office supplies (except paper) and sign manufacturing
+339950,2013,66.61,Office supplies (except paper) and sign manufacturing
+339950,2014,68.13,Office supplies (except paper) and sign manufacturing
+339950,2015,72.39,Office supplies (except paper) and sign manufacturing
+339950,2016,74.92,Office supplies (except paper) and sign manufacturing
+339950,2017,73.15,Office supplies (except paper) and sign manufacturing
+339950,2018,72.18,Office supplies (except paper) and sign manufacturing
+339950,2019,72.85,Office supplies (except paper) and sign manufacturing
+339950,2020,74.78,Office supplies (except paper) and sign manufacturing
+339950,2021,69.95,Office supplies (except paper) and sign manufacturing
+339950,2022,79.4,Office supplies (except paper) and sign manufacturing
+339950,2023,77.15,Office supplies (except paper) and sign manufacturing
+339950,2024,77.82,Office supplies (except paper) and sign manufacturing
+339999,2008,68.81,All other miscellaneous manufacturing
+339999,2009,58.03,All other miscellaneous manufacturing
+339999,2010,73.77,All other miscellaneous manufacturing
+339999,2011,81.39,All other miscellaneous manufacturing
+339999,2012,81.97,All other miscellaneous manufacturing
+339999,2013,80.31,All other miscellaneous manufacturing
+339999,2014,80.05,All other miscellaneous manufacturing
+339999,2015,61.51,All other miscellaneous manufacturing
+339999,2016,58.48,All other miscellaneous manufacturing
+339999,2017,59.97,All other miscellaneous manufacturing
+339999,2018,61.88,All other miscellaneous manufacturing
+339999,2019,65.1,All other miscellaneous manufacturing
+339999,2020,56.45,All other miscellaneous manufacturing
+339999,2021,65.35,All other miscellaneous manufacturing
+339999,2022,64.38,All other miscellaneous manufacturing
+339999,2023,68.35,All other miscellaneous manufacturing
+339999,2024,73.4,All other miscellaneous manufacturing

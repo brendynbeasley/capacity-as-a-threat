@@ -1,0 +1,70 @@
+market,label,cr4,mean_util,new_plants,existing_plants,jobs_new,jobs_existing,shipments_bn,existing_share_plants,existing_share_jobs,jobs_per_new_firm_plant,jobs_per_existing_firm_plant
+N4_3273,"Cement manufacturing; Ready-mix concrete; concrete pipe, brick, and block; and other concrete manufacturing",19.18,56.12,1007.0,2636.0,10554.0,35880.0,58.41,72.36,77.27,10.48,13.61
+N4_3222,Converted paper product manufacturing,43.03,75.42,845.0,788.0,12902.0,36128.0,108.94,48.25,73.69,15.27,45.85
+N4_3336,"Engine, turbine, and power transmission equipment manufacturing",55.49,66.47,295.0,151.0,4897.0,13671.0,45.56,33.86,73.63,16.6,90.54
+N4_3262,All other rubber product (excluding tires) manufacturing; Tire manufacturing,47.46,75.29,527.0,413.0,5873.0,14789.0,43.32,43.94,71.58,11.14,35.81
+N4_3364,Aerospace product and parts manufacturing,82.46,72.54,878.0,652.0,15708.0,39062.0,249.79,42.61,71.32,17.89,59.91
+N4_3251,"Ethyl alcohol manufacturing; Gum, wood chemical, cyclic crude and intermediate, and all other basic organic chemical manufacturing; Industrial gas, synthetic organic dye and pigment, and other basic inorganic chemical manufacturing; Petrochemical manufacturing",45.59,80.61,352.0,691.0,7156.0,17749.0,217.96,66.25,71.27,20.33,25.69
+N4_3274,Lime and gypsum product manufacturing,75.69,63.37,88.0,47.0,402.0,976.0,8.03,34.81,70.83,4.57,20.77
+N4_3241,"Paving, roofing, and all other petroleum and coal products manufacturing; Petroleum refineries",44.9,83.57,491.0,975.0,5443.0,13001.0,543.45,66.51,70.49,11.09,13.33
+N4_3255,"Paint, coating, and adhesive manufacturing",35.53,62.24,656.0,312.0,5543.0,12551.0,42.41,32.23,69.37,8.45,40.23
+N4_3254,Pharmaceutical and medicine manufacturing,42.99,69.09,2128.0,818.0,28892.0,61458.0,211.21,27.77,68.02,13.58,75.13
+N4_3212,"Veneer, plywood, and engineered wood product manufacturing",45.19,67.66,471.0,368.0,6726.0,14059.0,24.54,43.86,67.64,14.28,38.2
+N4_3345,"Navigational, measuring, electromedical, and control instruments manufacturing",38.91,66.83,2295.0,1571.0,26260.0,54462.0,150.96,40.64,67.47,11.44,34.67
+N4_3363,Motor vehicle parts manufacturing,31.32,68.95,1914.0,1307.0,36692.0,73804.0,261.32,40.58,66.79,19.17,56.47
+N4_3261,Plastics product manufacturing,21.23,68.86,3087.0,2480.0,43372.0,85463.0,193.3,44.55,66.34,14.05,34.46
+N4_3359,Electrical equipment and component manufacturing,40.08,67.71,1806.0,963.0,18035.0,32796.0,86.38,34.78,64.52,9.99,34.06
+N4_3391,Medical equipment and supplies manufacturing,32.78,73.13,5498.0,2997.0,30704.0,55641.0,88.61,35.28,64.44,5.58,18.57
+N4_3334,"Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",32.11,64.49,709.0,323.0,10314.0,18683.0,43.18,31.3,64.43,14.55,57.84
+N4_3339,Other general purpose machinery manufacturing,33.26,67.25,2244.0,1544.0,22022.0,37763.0,103.94,40.76,63.16,9.81,24.46
+N4_3252,Artificial and synthetic fibers and filaments manufacturing; Plastics material and resin manufacturing; Synthetic rubber manufacturing,30.57,73.27,458.0,274.0,7960.0,13458.0,103.54,37.43,62.83,17.38,49.12
+N4_3331,"Agriculture, construction, and mining machinery manufacturing",51.07,63.97,1327.0,735.0,14343.0,23500.0,81.31,35.65,62.1,10.81,31.97
+N4_3326,"Forging and stamping; cutlery, handtool, boiler, tank, shipping container, hardware, and spring and wire manufacturing",35.61,66.81,2061.0,1063.0,21643.0,34787.0,91.09,34.03,61.65,10.5,32.73
+N4_3333,Commercial and service industry machinery manufacturing,22.08,75.35,933.0,497.0,7894.0,12480.0,24.67,34.76,61.25,8.46,25.11
+N4_3362,Motor vehicle body and trailer manufacturing,51.58,67.73,1124.0,590.0,17387.0,26928.0,47.69,34.42,60.76,15.47,45.64
+N4_3341,Computer and peripheral equipment manufacturing,57.21,64.02,675.0,202.0,4846.0,7255.0,20.35,23.03,59.95,7.18,35.92
+N4_3344,"Bare printed circuit board, electronic capacitor, and other electronic component manufacturing; Semiconductor and related device manufacturing",38.49,68.62,1784.0,860.0,21865.0,30429.0,95.31,32.53,58.19,12.26,35.38
+N4_3256,"Soap, cleaning compound, and toilet preparation manufacturing",54.39,63.84,1663.0,556.0,12129.0,16685.0,82.54,25.06,57.91,7.29,30.01
+N4_3279,Other nonmetallic mineral product manufacturing,46.33,69.19,1550.0,986.0,10421.0,14061.0,25.48,38.88,57.43,6.72,14.26
+N4_3231,Printing and related support activities,16.88,66.1,12710.0,6702.0,60344.0,80077.0,82.75,34.53,57.03,4.75,11.95
+N4_3141,Textile furnishings mills,45.06,63.88,677.0,505.0,5455.0,7237.0,13.56,42.72,57.02,8.06,14.33
+N4_3116,"Grain and oilseed milling, dairy, and animal slaughtering and processing",48.99,82.59,3424.0,1174.0,40723.0,53395.0,413.37,25.53,56.73,11.89,45.48
+N4_3219,Other wood product manufacturing,30.24,66.23,6186.0,3231.0,41709.0,53187.0,50.0,34.31,56.05,6.74,16.46
+N4_3335,Metalworking machinery manufacturing,17.85,67.08,1835.0,1359.0,15964.0,20199.0,32.33,42.55,55.86,8.7,14.86
+N4_3271,Clay product and refractory manufacturing,32.82,59.46,579.0,301.0,3205.0,4020.0,8.05,34.2,55.64,5.54,13.36
+N4_3253,Fertilizer manufacturing; Pesticide and other agricultural chemical manufacturing,59.52,66.87,560.0,219.0,3211.0,3862.0,31.41,28.11,54.6,5.73,17.63
+N4_3259,Other chemical product and preparation manufacturing,30.28,65.57,1268.0,606.0,11151.0,13361.0,46.87,32.34,54.51,8.79,22.05
+N4_3114,"Sugar and confectionary product, fruit and vegetable preserving and specialty food manufacturing",42.53,66.15,2782.0,916.0,23741.0,28372.0,109.24,24.77,54.44,8.53,30.97
+N4_3272,Glass and glass product manufacturing,49.05,79.27,887.0,488.0,7426.0,8863.0,25.89,35.49,54.41,8.37,18.16
+N4_3329,All other fabricated metal product manufacturing,17.93,66.39,21313.0,12089.0,150526.0,173460.0,252.1,36.19,53.54,7.06,14.35
+N4_3119,Coffee and tea manufacturing; Other food manufacturing; Snack food manufacturing,43.39,70.17,4187.0,1135.0,32989.0,37882.0,115.05,21.33,53.45,7.88,33.38
+N4_3342,Communications equipment manufacturing,43.83,63.8,683.0,315.0,8834.0,9699.0,34.86,31.56,52.33,12.93,30.79
+N4_3369,"Railroad rolling stock, ship, boat, and other transportation equipment manufacturing",57.77,52.77,1936.0,679.0,19406.0,21223.0,69.53,25.97,52.24,10.02,31.26
+N4_3315,Foundries,39.99,69.23,427.0,213.0,7556.0,8166.0,30.04,33.28,51.94,17.7,38.34
+N4_3211,Sawmills and wood preservation,26.11,67.53,1673.0,1007.0,14979.0,15411.0,32.67,37.57,50.71,8.95,15.3
+N4_3371,Household and institutional furniture and kitchen cabinet manufacturing,32.89,68.77,5904.0,4245.0,32293.0,31956.0,38.92,41.83,49.74,5.47,7.53
+N4_3361,Automobile manufacturing; Heavy duty truck manufacturing; Light truck and utility vehicle manufacturing,71.49,75.1,288.0,52.0,4942.0,4754.0,323.44,15.29,49.03,17.16,91.42
+N4_3332,Industrial machinery manufacturing,25.5,64.84,1406.0,723.0,12722.0,12232.0,33.52,33.96,49.02,9.05,16.92
+N4_3312,Iron and steel mills and ferroalloy manufacturing; and steel product manufacturing from purchased steel,45.03,71.56,613.0,146.0,8822.0,7990.0,110.32,19.24,47.53,14.39,54.73
+N4_3372,Office furniture (incl. fixtures) manufacturing,28.92,66.51,1707.0,969.0,12821.0,11271.0,26.04,36.21,46.78,7.51,11.63
+N4_3221,Paper mills; Paperboard mills; Pulp mills,61.84,87.33,111.0,33.0,3517.0,3046.0,77.45,22.92,46.41,31.68,92.3
+N4_3352,Household appliance manufacturing,68.09,63.96,280.0,24.0,2492.0,2044.0,22.72,7.89,45.06,8.9,85.17
+N4_3351,Electric lighting equipment manufacturing,39.56,57.45,681.0,184.0,4594.0,3376.0,13.85,21.27,42.36,6.75,18.35
+N4_3132,Fabric mills,32.26,67.25,411.0,110.0,4362.0,3187.0,13.37,21.11,42.22,10.61,28.97
+N4_3169,Other leather and allied product manufacturing,33.03,64.97,655.0,101.0,2828.0,1930.0,1.55,13.36,40.56,4.32,19.11
+N4_3149,Other textile product mills,22.95,66.14,2977.0,1340.0,13202.0,8997.0,9.16,31.04,40.53,4.43,6.71
+N4_3118,"Animal food, bakery and tortilla manufacturing, seafood product preparation and packaging",37.93,69.46,13552.0,3518.0,99404.0,66268.0,138.19,20.61,40.0,7.34,18.84
+N4_3399,"All other miscellaneous manufacturing; Jewelry, silverware, sporting and athletic goods, and doll, toy and game manufacturing; Office supplies (except paper) and sign manufacturing",27.25,68.25,14452.0,5091.0,68100.0,45325.0,59.82,26.05,39.96,4.71,8.9
+N4_3131,"Fiber, yarn, and thread mills",46.1,79.0,199.0,26.0,2506.0,1385.0,7.11,11.56,35.59,12.59,53.27
+N4_3314,Nonferrous metal (except aluminum) production and processing,39.23,60.4,327.0,73.0,4436.0,2421.0,46.07,18.25,35.31,13.57,33.16
+N4_3121,Beverage manufacturing,56.62,74.72,12218.0,2214.0,67872.0,36110.0,107.45,15.34,34.73,5.56,16.31
+N4_3313,Alumina and aluminum production and processing,55.23,74.36,187.0,28.0,5400.0,1973.0,35.67,13.02,26.76,28.88,70.46
+N4_3346,Audio and video equipment manufacturing; and manufacturing and reproducing magnetic and optical media,35.27,54.71,760.0,146.0,3675.0,1323.0,4.81,16.11,26.47,4.84,9.06
+N4_3379,Other furniture related product manufacturing,59.37,71.96,380.0,105.0,7510.0,2636.0,10.16,21.65,25.98,19.76,25.1
+N4_3133,"Textile and fabric finishing, and fabric coating mills",28.77,61.28,633.0,124.0,4389.0,1515.0,7.13,16.38,25.66,6.93,12.22
+N4_3152,Cut and sew apparel contractors; Men's and boy's cut and sew apparel manufacturing; Other cut and sew apparel manufacturing; Women's and girl's cut and sew apparel manufacturing,17.47,73.76,2939.0,802.0,17876.0,5266.0,8.0,21.44,22.76,6.08,6.57
+N4_3162,Footwear manufacturing,42.1,65.9,217.0,19.0,1746.0,398.0,1.79,8.05,18.56,8.05,20.95
+N4_3159,Apparel accessories and other apparel manufacturing,28.0,70.5,753.0,110.0,3449.0,513.0,1.06,12.75,12.95,4.58,4.66
+N4_3151,Hosiery and sock mills; and other apparel knitting mills,38.46,54.1,148.0,7.0,1492.0,111.0,1.19,4.52,6.92,10.08,15.86
+N4_3161,Leather and hide tanning and finishing,60.0,64.63,125.0,3.0,504.0,9.0,1.46,2.34,1.75,4.03,3.0
+N4_3122,Tobacco manufacturing,91.1,57.66,161.0,0.0,1039.0,0.0,47.55,0.0,0.0,6.45,

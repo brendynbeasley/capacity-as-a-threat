@@ -1,0 +1,59 @@
+test,spec,term,coef,se,ci_low,ci_high,p,n,clusters,r2
+cross-section 2015-19,concentration only,cr4,0.124362,0.07249,-0.017715,0.266439,0.086238,89,,0.039618
+cross-section 2015-19,plus controls,cr4,-0.060466,0.076546,-0.210494,0.089562,0.429574,89,,0.207677
+cross-section 2015-19,plus controls,capital_intensity,1.897709,2.309683,-2.629186,6.424604,0.411287,89,,0.207677
+cross-section 2015-19,plus controls,ln_plant_size,2.733987,0.797713,1.170498,4.297477,0.00061,89,,0.207677
+cross-section 2015-19,plus controls,emp_volatility,-0.710358,0.542416,-1.773475,0.352758,0.190325,89,,0.207677
+cross-section 2015-19,Spence interaction,cr4,-0.269809,0.107406,-0.480321,-0.059297,0.012003,89,,0.294425
+cross-section 2015-19,Spence interaction,k_high,-14.429115,5.566201,-25.338668,-3.519562,0.009534,89,,0.294425
+cross-section 2015-19,Spence interaction,cr4_x_k_high,0.382981,0.121323,0.145192,0.62077,0.001596,89,,0.294425
+cross-section 2015-19,Spence interaction,ln_plant_size,3.384258,0.850356,1.717591,5.050926,6.9e-05,89,,0.294425
+cross-section 2015-19,Spence interaction,emp_volatility,-0.473827,0.538037,-1.52836,0.580706,0.378502,89,,0.294425
+cross-section 2015-19,Spence interaction,"cr4 slope, capital-heavy",0.113172,0.081155,-0.045888,0.272233,0.16316,89,,0.294425
+cross-section 2015-19,"Spence interaction, continuous",cr4,-0.358118,0.134321,-0.621382,-0.094854,0.007673,89,,0.281598
+cross-section 2015-19,"Spence interaction, continuous",capital_intensity,-16.90099,6.572295,-29.782452,-4.019528,0.010124,89,,0.281598
+cross-section 2015-19,"Spence interaction, continuous",cr4_x_k,0.372123,0.122855,0.131332,0.612914,0.002454,89,,0.281598
+cross-section 2015-19,"Spence interaction, continuous",ln_plant_size,3.551473,0.893608,1.800034,5.302913,7.1e-05,89,,0.281598
+cross-section 2015-19,"Spence interaction, continuous",emp_volatility,-0.382223,0.550418,-1.461024,0.696577,0.487417,89,,0.281598
+cross-section 2015-19,HHI instead of CR4,I(hhi / 100),0.064962,0.263353,-0.451201,0.581124,0.805163,86,,0.171992
+cross-section 2015-19,HHI instead of CR4,capital_intensity,1.299694,2.449246,-3.50074,6.100129,0.595661,86,,0.171992
+cross-section 2015-19,HHI instead of CR4,ln_plant_size,2.00104,0.808101,0.417192,3.584889,0.013278,86,,0.171992
+cross-section 2015-19,HHI instead of CR4,emp_volatility,-0.849615,0.556571,-1.940473,0.241244,0.126881,86,,0.171992
+cross-section 2015-19,"plus controls, shipment-weighted",cr4,-0.024215,0.056361,-0.13468,0.086249,0.66745,89,,0.445472
+cross-section 2015-19,"plus controls, shipment-weighted",capital_intensity,2.228569,2.583619,-2.835231,7.292369,0.38837,89,,0.445472
+cross-section 2015-19,"plus controls, shipment-weighted",ln_plant_size,3.312742,0.490529,2.351322,4.274162,0.0,89,,0.445472
+cross-section 2015-19,"plus controls, shipment-weighted",emp_volatility,-0.383658,0.637697,-1.633522,0.866205,0.54742,89,,0.445472
+cross-section 2021-24,plus controls,cr4,0.001702,0.090325,-0.175332,0.178735,0.984969,90,,0.167873
+cross-section 2021-24,plus controls,capital_intensity,4.990009,2.367579,0.34964,9.630377,0.035062,90,,0.167873
+cross-section 2021-24,plus controls,ln_plant_size,0.672622,0.774785,-0.845929,2.191174,0.385318,90,,0.167873
+cross-section 2021-24,plus controls,emp_volatility,-0.677947,0.431753,-1.524168,0.168273,0.116364,90,,0.167873
+cross-section 2021-24,Spence interaction,cr4,-0.217795,0.105485,-0.424543,-0.011048,0.038952,90,,0.283254
+cross-section 2021-24,Spence interaction,k_high,-15.394015,4.832382,-24.865309,-5.922722,0.001445,90,,0.283254
+cross-section 2021-24,Spence interaction,cr4_x_k_high,0.419869,0.115107,0.194263,0.645475,0.000265,90,,0.283254
+cross-section 2021-24,Spence interaction,ln_plant_size,1.607604,0.744732,0.147957,3.067251,0.030879,90,,0.283254
+cross-section 2021-24,Spence interaction,emp_volatility,-0.581185,0.453795,-1.470607,0.308238,0.200292,90,,0.283254
+cross-section 2021-24,Spence interaction,"cr4 slope, capital-heavy",0.202074,0.078171,0.048861,0.355287,0.009738,90,,0.283254
+panel new-firm entry,baseline,util_lag,0.014317,0.013023,-0.011207,0.03984,0.271597,944,69.0,0.76106
+panel new-firm entry,baseline,emp_growth_lag,0.012258,0.015839,-0.018786,0.043302,0.43899,944,69.0,0.76106
+panel new-firm entry,one-year lag,util_lag1,0.011147,0.009914,-0.008285,0.030579,0.260867,943,69.0,0.770138
+panel new-firm entry,one-year lag,emp_growth_lag,0.016559,0.014209,-0.011289,0.044407,0.24385,943,69.0,0.770138
+panel new-firm entry,plant-weighted,util_lag,0.015041,0.011253,-0.007015,0.037096,0.181352,944,69.0,0.861933
+panel new-firm entry,plant-weighted,emp_growth_lag,0.007484,0.017136,-0.026102,0.041071,0.66229,944,69.0,0.861933
+panel new-firm entry,by concentration,util_lag,0.016921,0.014014,-0.010547,0.044389,0.227275,944,69.0,0.76114
+panel new-firm entry,by concentration,util_x_high_cr4,-0.006753,0.017454,-0.040963,0.027456,0.698816,944,69.0,0.76114
+panel new-firm entry,by concentration,emp_growth_lag,0.012493,0.01576,-0.018396,0.043382,0.427959,944,69.0,0.76114
+panel new-firm entry,by capital intensity,util_lag,0.022737,0.018218,-0.01297,0.058444,0.212018,944,69.0,0.761742
+panel new-firm entry,by capital intensity,util_x_k_high,-0.018609,0.015798,-0.049573,0.012354,0.23881,944,69.0,0.761742
+panel new-firm entry,by capital intensity,emp_growth_lag,0.01236,0.015962,-0.018925,0.043645,0.438734,944,69.0,0.761742
+panel new-firm entry,2010-2019 only,util_lag,0.011334,0.010919,-0.010067,0.032735,0.299272,670,69.0,0.79255
+panel new-firm entry,2010-2019 only,emp_growth_lag,0.017178,0.013407,-0.009098,0.043455,0.200073,670,69.0,0.79255
+panel new-firm entry,jobs at new firms' plants,util_lag,-0.002543,0.004812,-0.011975,0.006889,0.597247,944,69.0,0.522647
+panel new-firm entry,jobs at new firms' plants,emp_growth_lag,-0.002423,0.006915,-0.015976,0.011129,0.725973,944,69.0,0.522647
+panel plant exits,baseline,util_lag,-0.004988,0.007886,-0.020445,0.010469,0.527067,944,69.0,0.765825
+panel plant exits,baseline,emp_growth_lag,-0.059967,0.018213,-0.095663,-0.02427,0.000993,944,69.0,0.765825
+G.17 long run new,baseline,util_lag,-0.053869,0.040907,-0.134045,0.026308,0.187888,924,22.0,0.783418
+G.17 long run new,baseline,emp_growth_lag,0.147345,0.077347,-0.004252,0.298942,0.056781,924,22.0,0.783418
+G.17 long run existing,baseline,util_lag,0.005401,0.006823,-0.007972,0.018775,0.428588,924,22.0,0.631091
+G.17 long run existing,baseline,emp_growth_lag,-0.010291,0.010392,-0.030658,0.010077,0.322049,924,22.0,0.631091
+G.17 long run new_job,baseline,util_lag,-0.012191,0.011787,-0.035292,0.01091,0.300997,924,22.0,0.770884
+G.17 long run new_job,baseline,emp_growth_lag,0.01758,0.021875,-0.025293,0.060454,0.421585,924,22.0,0.770884

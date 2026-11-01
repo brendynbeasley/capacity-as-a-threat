@@ -1,0 +1,25 @@
+model,spec,term,coef,se,ci_low,ci_high,p,n
+"Poisson, plant openings",new firms' plants,util_lag,0.003338,0.002362,-0.001291,0.007967,0.157515,944
+"Poisson, plant openings",new firms' plants,emp_growth_lag,0.001935,0.003831,-0.005575,0.009444,0.613613,944
+"Poisson, plant openings",existing firms' plants,util_lag,-0.010151,0.002489,-0.01503,-0.005272,4.5e-05,944
+"Poisson, plant openings",existing firms' plants,emp_growth_lag,0.002307,0.005839,-0.009136,0.013751,0.692721,944
+"Poisson, jobs at new plants",jobs at new firms' plants,util_lag,-0.000521,0.003318,-0.007023,0.005982,0.875311,944
+"Poisson, jobs at new plants",jobs at new firms' plants,emp_growth_lag,-0.0086,0.005881,-0.020126,0.002926,0.143627,944
+"Poisson, jobs at new plants",jobs at existing firms' new plants,util_lag,-0.015701,0.004121,-0.023778,-0.007623,0.000139,944
+"Poisson, jobs at new plants",jobs at existing firms' new plants,emp_growth_lag,0.008172,0.008094,-0.007692,0.024037,0.312667,944
+"Poisson, plant openings","new firms' plants, 2010-2019",util_lag,0.002376,0.002734,-0.002983,0.007735,0.384816,670
+"Poisson, plant openings","existing firms' plants, 2010-2019",util_lag,-0.010102,0.003638,-0.017233,-0.00297,0.005498,670
+"Poisson, plant openings","new firms' plants, one-year lag",util_lag1,0.004833,0.002219,0.000484,0.009182,0.029402,943
+"Poisson, plant openings","existing firms' plants, one-year lag",util_lag1,-0.002969,0.002047,-0.006981,0.001043,0.146896,943
+"Poisson, stacked plants",existing minus new,util_lag,0.003338,0.002363,-0.001293,0.007969,0.157746,1888
+"Poisson, stacked plants",existing minus new,util_x_existing,-0.013489,0.00398,-0.021289,-0.005689,0.0007,1888
+"Poisson, stacked plants",by concentration,util_lag,0.004384,0.002743,-0.000991,0.00976,0.109935,1888
+"Poisson, stacked plants",by concentration,util_x_existing,-0.014846,0.004605,-0.023871,-0.005821,0.001263,1888
+"Poisson, stacked plants",by concentration,util_x_high,-0.006125,0.005991,-0.017867,0.005618,0.306654,1888
+"Poisson, stacked plants",by concentration,util_x_existing_x_high,0.007888,0.006285,-0.004431,0.020207,0.209472,1888
+"Poisson, stacked jobs",existing minus new,util_lag,-0.000521,0.00332,-0.007027,0.005986,0.87538,1888
+"Poisson, stacked jobs",existing minus new,util_x_existing,-0.01518,0.005008,-0.024995,-0.005365,0.002436,1888
+"OLS, existing firms' share of openings",by concentration,util_lag,-0.05257,0.064667,-0.179314,0.074174,0.41625,944
+"OLS, existing firms' share of openings",by concentration,util_x_high,-0.248216,0.162043,-0.565814,0.069383,0.125575,944
+"Poisson, stacked plants, G.17 1982-2023",existing minus new,util_lag,-0.003783,0.006284,-0.0161,0.008534,0.547192,1848
+"Poisson, stacked plants, G.17 1982-2023",existing minus new,util_x_existing,0.004608,0.007132,-0.009372,0.018587,0.518262,1848

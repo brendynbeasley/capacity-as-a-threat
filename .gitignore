@@ -1,0 +1,14 @@
+# Census Business Dynamics Statistics files (about 21 MB); src/build_panel.py downloads them
+data/raw/bds/
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Keys and local clutter
+*.key
+.env
+.DS_Store
